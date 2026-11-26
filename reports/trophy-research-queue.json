@@ -1,318 +1,55 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-11-26T09:13:16.937Z",
+  "schemaVersion": 2,
+  "scope": "preferred-platform",
+  "generatedAt": "2026-11-26T09:51:34.598Z",
   "rows": [
     {
-      "conceptId": "10016223",
-      "gameId": "ss-8A0w3BPClOtTvuW5vlvU",
-      "name": "Psi-Ops: The Mindgate Conspiracy",
-      "platform": "PS4",
-      "query": "Psi-Ops: The Mindgate Conspiracy PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10016223",
-      "gameId": "ss-8A0w3BPClOtTvuW5vlvU",
-      "name": "Psi-Ops: The Mindgate Conspiracy",
-      "platform": "PS5",
-      "query": "Psi-Ops: The Mindgate Conspiracy PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "233032",
-      "gameId": "ss-lqUBkXaZ4RuIoyLTRQ5h",
-      "name": "Black Desert",
-      "platform": "PS5",
-      "query": "Black Desert PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10009612",
-      "gameId": "ss-6LJsVe0NL8S1hn2455gK",
-      "name": "Farming Simulator 25",
-      "platform": "PS5",
-      "query": "Farming Simulator 25 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "227410",
-      "gameId": "ss-mby1GrAF0TOPZAPvBW6J",
-      "name": "Kingdom Come: Deliverance",
-      "platform": "PS4",
-      "query": "Kingdom Come: Deliverance PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "227410",
-      "gameId": "ss-mby1GrAF0TOPZAPvBW6J",
-      "name": "Kingdom Come: Deliverance",
-      "platform": "PS5",
-      "query": "Kingdom Come: Deliverance PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10017591",
-      "gameId": "ss-1fnpoRMCpgI683bOFYFk",
-      "name": "Gitaroo-Man",
-      "platform": "PS4",
-      "query": "Gitaroo-Man PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10009597",
-      "gameId": "ss-ZfL2J32gWXaLBbwsvs5X",
-      "name": "Darkest Dungeon II PS4 & PS5",
-      "platform": "PS4",
-      "query": "Darkest Dungeon II PS4 & PS5 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10008790",
-      "gameId": "ss-frPoOMl4zjA7fetzbAgO",
-      "name": "Expeditions: A MudRunner Game (PS4 & PS5)",
-      "platform": "PS4",
-      "query": "Expeditions: A MudRunner Game (PS4 & PS5) PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10008790",
-      "gameId": "ss-frPoOMl4zjA7fetzbAgO",
-      "name": "Expeditions: A MudRunner Game (PS4 & PS5)",
-      "platform": "PS5",
-      "query": "Expeditions: A MudRunner Game (PS4 & PS5) PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10004462",
-      "gameId": "ss-RdKP8fzh9wAJIiLylFRU",
-      "name": "Like a Dragon: Infinite Wealth PS4 & PS5",
-      "platform": "PS4",
-      "query": "Like a Dragon: Infinite Wealth PS4 & PS5 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10004462",
-      "gameId": "ss-RdKP8fzh9wAJIiLylFRU",
-      "name": "Like a Dragon: Infinite Wealth PS4 & PS5",
-      "platform": "PS5",
-      "query": "Like a Dragon: Infinite Wealth PS4 & PS5 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10015861",
-      "gameId": "ss-JdqWCqHCfUXMFcjy65dN",
-      "name": "RIDGE RACER PS4 & PS5",
-      "platform": "PS4",
-      "query": "RIDGE RACER PS4 & PS5 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
       "conceptId": "10015861",
       "gameId": "ss-JdqWCqHCfUXMFcjy65dN",
       "name": "RIDGE RACER PS4 & PS5",
       "platform": "PS5",
-      "query": "RIDGE RACER PS4 & PS5 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10011105",
-      "gameId": "ss-tN8pqXpJwjw4sGDVipao",
-      "name": "The Exit 8",
-      "platform": "PS4",
-      "query": "The Exit 8 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10009610",
-      "gameId": "ss-IYk84inDBvmg2pwQdsuK",
-      "name": "Planet Coaster 2",
-      "platform": "PS5",
-      "query": "Planet Coaster 2 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10016210",
-      "gameId": "ss-cgRkWl3f9UpSgAtFMOl2",
-      "name": "SOULCALIBUR III PS4 & PS5",
-      "platform": "PS4",
-      "query": "SOULCALIBUR III PS4 & PS5 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
+      "fields": [
+        "base",
+        "additional"
+      ],
+      "status": "version-unresolved",
+      "research": {
+        "status": "version-unresolved",
+        "checkedAt": "2026-11-26",
+        "reason": "原版PS1移植：找到未來將支援獎盃的報導，未找到可核實的實際清單；搜尋常混入Arcade Archives 2或Vita版，不能套用。",
+        "sources": [
+          {
+            "url": "https://www.truetrophies.com/news/ridge-racer-trophy-support",
+            "checkedAt": "2026-11-26"
+          }
+        ]
+      },
+      "query": "RIDGE RACER PS4 & PS5 PS5 trophies base game DLC title update bronze silver gold platinum",
+      "reason": "先查PS5；逐平台核對本體與追加分組。未查不是找不到，403須續查合法公開替代來源，不可用DLC總數覆蓋本體。"
     },
     {
       "conceptId": "10016210",
       "gameId": "ss-cgRkWl3f9UpSgAtFMOl2",
       "name": "SOULCALIBUR III PS4 & PS5",
       "platform": "PS5",
-      "query": "SOULCALIBUR III PS4 & PS5 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10004116",
-      "gameId": "ss-7kQsHwIWJdu6h4RuFOpM",
-      "name": "Wo Long: Fallen Dynasty (PS4 & PS5)",
-      "platform": "PS4",
-      "query": "Wo Long: Fallen Dynasty (PS4 & PS5) PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10004116",
-      "gameId": "ss-7kQsHwIWJdu6h4RuFOpM",
-      "name": "Wo Long: Fallen Dynasty (PS4 & PS5)",
-      "platform": "PS5",
-      "query": "Wo Long: Fallen Dynasty (PS4 & PS5) PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10012483",
-      "gameId": "ss-lDpUHsAcqLRNfPemB0sV",
-      "name": "Abiotic Factor",
-      "platform": "PS5",
-      "query": "Abiotic Factor PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "234567",
-      "gameId": "ss-GMp6QNqNEx9HUXKzfZoD",
-      "name": "Cyberpunk 2077",
-      "platform": "PS4",
-      "query": "Cyberpunk 2077 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "234567",
-      "gameId": "ss-GMp6QNqNEx9HUXKzfZoD",
-      "name": "Cyberpunk 2077",
-      "platform": "PS5",
-      "query": "Cyberpunk 2077 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10013576",
-      "gameId": "ss-Wwcx9CMXIKf9nKjjnEpR",
-      "name": "Deus Ex: The Conspiracy PS4 & PS5",
-      "platform": "PS4",
-      "query": "Deus Ex: The Conspiracy PS4 & PS5 PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10013576",
-      "gameId": "ss-Wwcx9CMXIKf9nKjjnEpR",
-      "name": "Deus Ex: The Conspiracy PS4 & PS5",
-      "platform": "PS5",
-      "query": "Deus Ex: The Conspiracy PS4 & PS5 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10003484",
-      "gameId": "ss-zEOmU0fpZsNkeASOWMRc",
-      "name": "Eiyuden Chronicle: Hundred Heroes",
-      "platform": "PS5",
-      "query": "Eiyuden Chronicle: Hundred Heroes PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10009325",
-      "gameId": "ss-lYgXJRjXS4oPOFR0AX1f",
-      "name": "Five Nights at Freddy's: Help Wanted 2",
-      "platform": "PS5",
-      "query": "Five Nights at Freddy's: Help Wanted 2 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10008667",
-      "gameId": "ss-te7eQXF4Y9eLedUravd8",
-      "name": "Myst (PS1)",
-      "platform": "PS4",
-      "query": "Myst (PS1) PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10008667",
-      "gameId": "ss-te7eQXF4Y9eLedUravd8",
-      "name": "Myst (PS1)",
-      "platform": "PS5",
-      "query": "Myst (PS1) PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10008668",
-      "gameId": "ss-L3Imh6GnXrTcWI34eUwi",
-      "name": "Riven (PS1)",
-      "platform": "PS4",
-      "query": "Riven (PS1) PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10008668",
-      "gameId": "ss-L3Imh6GnXrTcWI34eUwi",
-      "name": "Riven (PS1)",
-      "platform": "PS5",
-      "query": "Riven (PS1) PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10001119",
-      "gameId": "ss-HqTAxLZhz91JbucaFN1t",
-      "name": "ANNO: Mutationem Collector's Edition PS4 & PS5",
-      "platform": "PS5",
-      "query": "ANNO: Mutationem Collector's Edition PS4 & PS5 PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10007635",
-      "gameId": "ss-kczlaTz1eRoyE2brqFYD",
-      "name": "Indiana Jones and the Staff of Kings",
-      "platform": "PS4",
-      "query": "Indiana Jones and the Staff of Kings PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10007635",
-      "gameId": "ss-kczlaTz1eRoyE2brqFYD",
-      "name": "Indiana Jones and the Staff of Kings",
-      "platform": "PS5",
-      "query": "Indiana Jones and the Staff of Kings PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10000494",
-      "gameId": "ss-owO3Pu498fXq2TksHX94",
-      "name": "Biped",
-      "platform": "PS4",
-      "query": "Biped PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10000494",
-      "gameId": "ss-owO3Pu498fXq2TksHX94",
-      "name": "Biped",
-      "platform": "PS5",
-      "query": "Biped PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10000598",
-      "gameId": "ss-8UeZViuUKcWSXf1nnefe",
-      "name": "PHOGS!",
-      "platform": "PS4",
-      "query": "PHOGS! PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10004982",
-      "gameId": "ss-3OkSuxi59uSlLVzrIi0c",
-      "name": "WRC Generations – The FIA WRC Official Game",
-      "platform": "PS4",
-      "query": "WRC Generations – The FIA WRC Official Game PS4 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
-    },
-    {
-      "conceptId": "10004982",
-      "gameId": "ss-3OkSuxi59uSlLVzrIi0c",
-      "name": "WRC Generations – The FIA WRC Official Game",
-      "platform": "PS5",
-      "query": "WRC Generations – The FIA WRC Official Game PS5 base game trophy count bronze silver gold platinum",
-      "reason": "需核對同平台與本體分組，不直接套用全套含DLC總數"
+      "fields": [
+        "base",
+        "additional"
+      ],
+      "status": "support-unverified",
+      "research": {
+        "status": "support-unverified",
+        "checkedAt": "2026-11-26",
+        "reason": "PS2移植：發售時報導未支援獎盃；目前未找到後續可核實清單，不能把歷史無支援報導當成今日零盃證據。",
+        "sources": [
+          {
+            "url": "https://www.pushsquare.com/news/2025/12/disappointment-as-ps2-all-timer-soulcalibur-3-launches-on-ps5-ps4-without-trophies",
+            "checkedAt": "2026-11-26"
+          }
+        ]
+      },
+      "query": "SOULCALIBUR III PS4 & PS5 PS5 trophies base game DLC title update bronze silver gold platinum",
+      "reason": "先查PS5；逐平台核對本體與追加分組。未查不是找不到，403須續查合法公開替代來源，不可用DLC總數覆蓋本體。"
     }
   ]
 }

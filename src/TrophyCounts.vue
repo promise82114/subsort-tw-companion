@@ -1,16 +1,24 @@
 <script setup>
 import {computed} from 'vue';
+import TrophyNumbers from './TrophyNumbers.vue';
+import {preferredVersion,additionalSummary} from './trophies.js';
 const props=defineProps({game:Object,platform:String});
-const version=computed(()=>{
-  const candidates=props.game.versions.filter(v=>!props.platform||v.platform===props.platform);
-  return candidates.find(v=>v.platform==='PS5'&&v.baseTrophies)??candidates.find(v=>v.baseTrophies)??candidates[0];
-});
-const types=[['platinum','白金'],['gold','金'],['silver','銀'],['bronze','銅']];
+const version=computed(()=>preferredVersion(props.game,props.platform));
+const extra=computed(()=>additionalSummary(version.value?.additionalTrophies));
+const kindName=kind=>kind==='update'?'更新':kind==='dlc'?'DLC':'追加';
 </script>
 <template>
-  <div class="trophy-counts" :aria-label="`${version?.platform??''}本體獎盃數量`">
-    <span class="trophy-caption">{{ version?.platform }} 本體獎盃<span v-if="version?.baseTrophies"> · {{ version.baseTrophies.total }}</span></span>
-    <div v-if="version?.baseTrophies" class="trophy-numbers"><span v-for="[type,label] in types" :key="type" :class="['trophy-number',type]" :aria-label="`${label}盃 ${version.baseTrophies[type]}`" :title="label+'盃'"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10v5c0 4-2 6-5 6S7 12 7 8V3Z" fill="currentColor"/><path d="M7 5H3v3c0 3 2 5 5 5m9-8h4v3c0 3-2 5-5 5M12 14v5m-4 2h8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><b>{{ version.baseTrophies[type] }}</b></span></div>
-    <span v-else class="trophy-unknown">尚待查證</span>
+  <div class="trophy-counts" :aria-label="(version?.platform??'')+'獎盃數量'">
+    <div class="trophy-base">
+      <span class="trophy-caption">{{ version?.platform }} 本體獎盃<span v-if="version?.baseTrophies"> · {{ version.baseTrophies.total }}</span></span>
+      <TrophyNumbers v-if="version?.baseTrophies" :counts="version.baseTrophies" />
+      <span v-else class="trophy-unknown">尚待查證</span>
+    </div>
+    <div v-if="extra" class="trophy-additional" aria-label="DLC與更新追加獎盃">
+      <span class="additional-caption">{{ extra.groups.every(g=>g.kind==='update')?'更新獎盃':'DLC／追加獎盃' }} · {{ extra.complete?'':'已知 ' }}{{ extra.total }}<span v-if="!extra.complete">（未齊）</span></span>
+      <TrophyNumbers v-if="extra.counts" :counts="extra.counts" />
+      <ul class="trophy-pack-names"><li v-for="group in extra.groups" :key="group.id">{{ kindName(group.kind) }} · {{ group.name }} <b>{{ group.total }}</b></li></ul>
+    </div>
+    <span v-else-if="version?.additionalTrophies?.status!=='none'" class="additional-unknown">DLC／更新獎盃待查</span>
   </div>
 </template>

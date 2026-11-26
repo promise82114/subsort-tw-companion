@@ -1,6 +1,119 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "227410": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 50,
+          "bronze": 36,
+          "silver": 11,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Hardcore Mode",
+              "kind": "update",
+              "total": 3,
+              "counts": {
+                "total": 3,
+                "bronze": 3,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-2",
+              "name": "From the Ashes",
+              "kind": "dlc",
+              "total": 4,
+              "counts": {
+                "total": 4,
+                "bronze": 0,
+                "silver": 3,
+                "gold": 1,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-3",
+              "name": "Tournament!",
+              "kind": "update",
+              "total": 1,
+              "counts": {
+                "total": 1,
+                "bronze": 0,
+                "silver": 1,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-4",
+              "name": "The Amorous Adventures of Bold Sir Hans Capon",
+              "kind": "dlc",
+              "total": 7,
+              "counts": null,
+              "source": {
+                "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-5",
+              "name": "Band of Bastards",
+              "kind": "dlc",
+              "total": 7,
+              "counts": null,
+              "source": {
+                "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-6",
+              "name": "A Woman’s Lot",
+              "kind": "dlc",
+              "total": 11,
+              "counts": null,
+              "source": {
+                "url": "https://www.truetrophies.com/game/kingdom-come-deliverance/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 83
+      }
+    },
     "229066": {
       "PS5": {
         "platform": "PS5",
@@ -17,7 +130,34 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Granblue-Fantasy-Relink/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Endless Ragnarok",
+              "kind": "dlc",
+              "total": 42,
+              "counts": {
+                "total": 42,
+                "bronze": 23,
+                "silver": 17,
+                "gold": 2,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Granblue-Fantasy-Relink/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 96
       },
       "PS4": {
         "platform": "PS4",
@@ -37,6 +177,33 @@
         "regionVerification": "TW NP group unverified"
       }
     },
+    "233032": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 15,
+          "bronze": 2,
+          "silver": 2,
+          "gold": 10,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/black-desert/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/black-desert/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
     "234471": {
       "PS5": {
         "platform": "PS5",
@@ -53,7 +220,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/coffee-talk/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       },
       "PS4": {
         "platform": "PS4",
@@ -71,6 +246,52 @@
         },
         "acquisition": "public-search-index-reviewed",
         "regionVerification": "TW NP group unverified"
+      }
+    },
+    "234567": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 45,
+          "bronze": 26,
+          "silver": 17,
+          "gold": 1,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/cyberpunk-2077/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.powerpyx.com/cyberpunk-2077-phantom-liberty-dlc-trophy-guide-roadmap/",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Phantom Liberty",
+              "kind": "dlc",
+              "total": 13,
+              "counts": {
+                "total": 13,
+                "bronze": 13,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.powerpyx.com/cyberpunk-2077-phantom-liberty-dlc-trophy-guide-roadmap/",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 58
       }
     },
     "235235": {
@@ -101,10 +322,92 @@
           "platinum": 1
         },
         "source": {
-          "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+          "url": "https://www.truetrophies.com/game/resident-evil-village/trophies",
           "checkedAt": "2026-11-26"
         },
-        "acquisition": "public-guide-reviewed"
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Resident-Evil-Village/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Winters’ Expansion",
+              "kind": "dlc",
+              "total": 7,
+              "counts": {
+                "total": 7,
+                "bronze": 5,
+                "silver": 1,
+                "gold": 1,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Resident-Evil-Village/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 57
+      }
+    },
+    "10000494": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 16,
+          "bronze": 2,
+          "silver": 4,
+          "gold": 9,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/biped/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/biped/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10000598": {
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 31,
+          "bronze": 13,
+          "silver": 12,
+          "gold": 5,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/phogs/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/phogs/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10001119": {
@@ -124,6 +427,31 @@
         },
         "acquisition": "public-search-index-reviewed",
         "regionVerification": "TW NP group unverified"
+      },
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 36,
+          "bronze": 18,
+          "silver": 14,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/anno-mutationem-european/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "EU source list; Taiwan NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/anno-mutationem-european/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10002100": {
@@ -141,7 +469,51 @@
           "url": "https://www.powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap/",
           "checkedAt": "2026-11-26"
         },
-        "acquisition": "public-guide-reviewed"
+        "acquisition": "public-guide-reviewed",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Final-Fantasy-XVI/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Echoes of the Fallen",
+              "kind": "dlc",
+              "total": 6,
+              "counts": {
+                "total": 6,
+                "bronze": 6,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Final-Fantasy-XVI/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-2",
+              "name": "The Rising Tide",
+              "kind": "dlc",
+              "total": 13,
+              "counts": {
+                "total": 13,
+                "bronze": 13,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Final-Fantasy-XVI/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 69
       }
     },
     "10002689": {
@@ -160,7 +532,34 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/atlas-fallen/trophies",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Reign of Sand",
+              "kind": "update",
+              "total": 2,
+              "counts": {
+                "total": 2,
+                "bronze": 1,
+                "silver": 1,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/atlas-fallen/trophies",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 39
       }
     },
     "10003484": {
@@ -180,6 +579,157 @@
         },
         "acquisition": "public-search-index-reviewed",
         "regionVerification": "TW NP group unverified"
+      },
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 56,
+          "bronze": 48,
+          "silver": 5,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/eiyuden-chronicle-hundred-heroes/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/eiyuden-chronicle-hundred-heroes/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10004116": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 51,
+          "bronze": 38,
+          "silver": 10,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/wo-long-fallen-dynasty/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Wo-Long-Fallen-Dynasty/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Battle of Zhongyuan",
+              "kind": "dlc",
+              "total": 13,
+              "counts": {
+                "total": 13,
+                "bronze": 13,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Wo-Long-Fallen-Dynasty/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-2",
+              "name": "Conqueror of Jiangdong",
+              "kind": "dlc",
+              "total": 13,
+              "counts": {
+                "total": 13,
+                "bronze": 13,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Wo-Long-Fallen-Dynasty/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-3",
+              "name": "Upheaval in Jingxiang",
+              "kind": "dlc",
+              "total": 13,
+              "counts": {
+                "total": 13,
+                "bronze": 13,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Wo-Long-Fallen-Dynasty/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 90
+      }
+    },
+    "10004462": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 65,
+          "bronze": 62,
+          "silver": 1,
+          "gold": 1,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/like-a-dragon-infinite-wealth/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.powerpyx.com/like-a-dragon-infinite-wealth-master-vacation-pack-dlc-trophy-guide-roadmap/",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Master Vacation Pack",
+              "kind": "dlc",
+              "total": 9,
+              "counts": {
+                "total": 9,
+                "bronze": 5,
+                "silver": 4,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.powerpyx.com/like-a-dragon-infinite-wealth-master-vacation-pack-dlc-trophy-guide-roadmap/",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 74
       }
     },
     "10004780": {
@@ -198,7 +748,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/coffee-talk-episode-2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       },
       "PS4": {
         "platform": "PS4",
@@ -218,6 +776,33 @@
         "regionVerification": "TW NP group unverified"
       }
     },
+    "10004982": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 45,
+          "bronze": 32,
+          "silver": 9,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.playstationtrophies.org/game/wrc-generations/trophies/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.playstationtrophies.org/game/wrc-generations/trophies/",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
     "10005843": {
       "PS4": {
         "platform": "PS4",
@@ -234,7 +819,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/a-space-for-the-unbound-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10006098": {
@@ -253,7 +846,42 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/banishers-ghosts-of-new-eden/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10007635": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 21,
+          "bronze": 2,
+          "silver": 10,
+          "gold": 8,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/indiana-jones-and-the-staff-of-kings/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/indiana-jones-and-the-staff-of-kings/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10007859": {
@@ -272,7 +900,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/cat-quest-iii/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       },
       "PS4": {
         "platform": "PS4",
@@ -307,7 +943,34 @@
           "url": "https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/",
           "checkedAt": "2026-11-26"
         },
-        "acquisition": "public-guide-reviewed"
+        "acquisition": "public-guide-reviewed",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/life-is-strange-double-exposure/trophies",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Exclusive Cat Content",
+              "kind": "dlc",
+              "total": 2,
+              "counts": {
+                "total": 2,
+                "bronze": 1,
+                "silver": 1,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/life-is-strange-double-exposure/trophies",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 35
       }
     },
     "10008409": {
@@ -326,7 +989,139 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Summer Camp",
+              "kind": "dlc",
+              "total": 9,
+              "counts": {
+                "total": 9,
+                "bronze": 7,
+                "silver": 2,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-2",
+              "name": "Parker’s Story",
+              "kind": "dlc",
+              "total": 9,
+              "counts": {
+                "total": 9,
+                "bronze": 7,
+                "silver": 2,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-3",
+              "name": "Motor Vehicle Accident Expansion",
+              "kind": "dlc",
+              "total": 9,
+              "counts": {
+                "total": 9,
+                "bronze": 6,
+                "silver": 3,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-4",
+              "name": "Construction Site",
+              "kind": "dlc",
+              "total": 9,
+              "counts": {
+                "total": 9,
+                "bronze": 7,
+                "silver": 2,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 77
+      }
+    },
+    "10008667": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 21,
+          "bronze": 6,
+          "silver": 5,
+          "gold": 9,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/myst-ps1/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/myst-ps1/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10008668": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 26,
+          "bronze": 8,
+          "silver": 10,
+          "gold": 7,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.playstationtrophies.org/game/riven-the-sequel-to-myst/trophies/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.playstationtrophies.org/game/riven-the-sequel-to-myst/trophies/",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10008755": {
@@ -345,7 +1140,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/sonic-x-shadow-generations/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       },
       "PS4": {
         "platform": "PS4",
@@ -365,6 +1168,33 @@
         "regionVerification": "TW NP group unverified"
       }
     },
+    "10008790": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 21,
+          "bronze": 6,
+          "silver": 6,
+          "gold": 8,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/expeditions-a-mudrunner-game/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/expeditions-a-mudrunner-game/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
     "10008945": {
       "PS5": {
         "platform": "PS5",
@@ -381,7 +1211,51 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/A-Little-To-The-Left/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Cupboards & Drawers",
+              "kind": "dlc",
+              "total": 8,
+              "counts": {
+                "total": 8,
+                "bronze": 7,
+                "silver": 0,
+                "gold": 1,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/A-Little-To-The-Left/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-2",
+              "name": "Seeing Stars",
+              "kind": "dlc",
+              "total": 10,
+              "counts": {
+                "total": 10,
+                "bronze": 7,
+                "silver": 3,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/A-Little-To-The-Left/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 66
       },
       "PS4": {
         "platform": "PS4",
@@ -417,7 +1291,42 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/planet-zoo/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10009325": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 37,
+          "bronze": 23,
+          "silver": 9,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.playstationtrophies.org/game/five-nights-at-freddys-help-wanted-2/trophies/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.playstationtrophies.org/game/five-nights-at-freddys-help-wanted-2/trophies/",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10009366": {
@@ -436,7 +1345,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/a-quiet-place-the-road-ahead/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10009597": {
@@ -455,7 +1372,150 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Darkest-Dungeon-2/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "The Binding Blade",
+              "kind": "dlc",
+              "total": 12,
+              "counts": {
+                "total": 12,
+                "bronze": 11,
+                "silver": 1,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Darkest-Dungeon-2/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-2",
+              "name": "Inhuman Bondage",
+              "kind": "dlc",
+              "total": 12,
+              "counts": null,
+              "source": {
+                "url": "https://www.truetrophies.com/game/Darkest-Dungeon-2/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-3",
+              "name": "Kingdoms",
+              "kind": "update",
+              "total": 13,
+              "counts": {
+                "total": 13,
+                "bronze": 13,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Darkest-Dungeon-2/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-4",
+              "name": "Kingdoms 2",
+              "kind": "update",
+              "total": 3,
+              "counts": {
+                "total": 3,
+                "bronze": 3,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Darkest-Dungeon-2/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            },
+            {
+              "id": "additional-5",
+              "name": "Kingdoms 2 + 3",
+              "kind": "update",
+              "total": 12,
+              "counts": {
+                "total": 12,
+                "bronze": 11,
+                "silver": 1,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Darkest-Dungeon-2/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 107
+      }
+    },
+    "10009610": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 37,
+          "bronze": 20,
+          "silver": 13,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/planet-coaster-2/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/planet-coaster-2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10009612": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 46,
+          "bronze": 28,
+          "silver": 15,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/farming-simulator-25/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/farming-simulator-25/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10009923": {
@@ -474,7 +1534,34 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Another-Crabs-Treasure/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Year of the Crab",
+              "kind": "update",
+              "total": 6,
+              "counts": {
+                "total": 6,
+                "bronze": 6,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Another-Crabs-Treasure/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 39
       }
     },
     "10011105": {
@@ -493,7 +1580,15 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/the-exit-8/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10011854": {
@@ -512,7 +1607,88 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "complete",
+          "source": {
+            "url": "https://www.truetrophies.com/game/Blades-of-Fire/dlc",
+            "checkedAt": "2026-11-26"
+          },
+          "groups": [
+            {
+              "id": "additional-1",
+              "name": "Version 2.0",
+              "kind": "update",
+              "total": 3,
+              "counts": {
+                "total": 3,
+                "bronze": 3,
+                "silver": 0,
+                "gold": 0,
+                "platinum": 0
+              },
+              "source": {
+                "url": "https://www.truetrophies.com/game/Blades-of-Fire/dlc",
+                "checkedAt": "2026-11-26"
+              }
+            }
+          ]
+        },
+        "overallTotal": 46
+      }
+    },
+    "10012483": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 54,
+          "bronze": 40,
+          "silver": 12,
+          "gold": 1,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/abiotic-factor/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/abiotic-factor/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10013576": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 26,
+          "bronze": 8,
+          "silver": 10,
+          "gold": 7,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/deus-ex-the-conspiracy/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/deus-ex-the-conspiracy/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10014385": {
@@ -531,7 +1707,42 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/skate-story/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    },
+    "10016223": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 20,
+          "bronze": 0,
+          "silver": 11,
+          "gold": 8,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://platpursuit.com/games/NPWR54469_00/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://platpursuit.com/games/NPWR54469_00/",
+            "checkedAt": "2026-11-26"
+          }
+        }
       }
     },
     "10017591": {
@@ -550,7 +1761,43 @@
           "checkedAt": "2026-11-26"
         },
         "acquisition": "public-search-index-reviewed",
-        "regionVerification": "TW NP group unverified"
+        "regionVerification": "TW NP group unverified",
+        "additional": {
+          "status": "none",
+          "groups": [],
+          "source": {
+            "url": "https://www.truetrophies.com/game/gitaroo-man/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        }
+      }
+    }
+  },
+  "researchGaps": {
+    "10015861": {
+      "PS5": {
+        "status": "version-unresolved",
+        "checkedAt": "2026-11-26",
+        "reason": "原版PS1移植：找到未來將支援獎盃的報導，未找到可核實的實際清單；搜尋常混入Arcade Archives 2或Vita版，不能套用。",
+        "sources": [
+          {
+            "url": "https://www.truetrophies.com/news/ridge-racer-trophy-support",
+            "checkedAt": "2026-11-26"
+          }
+        ]
+      }
+    },
+    "10016210": {
+      "PS5": {
+        "status": "support-unverified",
+        "checkedAt": "2026-11-26",
+        "reason": "PS2移植：發售時報導未支援獎盃；目前未找到後續可核實清單，不能把歷史無支援報導當成今日零盃證據。",
+        "sources": [
+          {
+            "url": "https://www.pushsquare.com/news/2025/12/disappointment-as-ps2-all-timer-soulcalibur-3-launches-on-ps5-ps4-without-trophies",
+            "checkedAt": "2026-11-26"
+          }
+        ]
       }
     }
   }

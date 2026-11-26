@@ -5,9 +5,25 @@ export function applyCounts(game,entries){
   for(const v of game.versions){const record=variants[v.platform];if(!record)continue;
     const c=record.counts;
     if(record.scope!=='base'||!record.source?.url?.startsWith('https://')||!record.source.checkedAt||record.platform!==v.platform||!['bronze','silver','gold','platinum','total'].every(k=>Number.isInteger(c?.[k])&&c[k]>=0)||c.total!==c.bronze+c.silver+c.gold+c.platinum||c.total===0)throw new Error(`獎盃數量證據不完整：${game.twConceptId} ${v.platform}`);
-    v.baseTrophies={...c,source:record.source};v.hasPlatinum=c.platinum>0;v.trophyScope='公開本體清單；台灣區域群組未核實';
+    const extra=record.additional;
+    if(extra){
+      validateAdditional(extra,game.twConceptId+' '+v.platform);
+      if(record.overallTotal!==undefined&&extra.status!=='partial'&&record.overallTotal!==c.total+extra.groups.reduce((n,g)=>n+g.total,0))throw new Error('本體與追加獎盃總數不符');
+      v.additionalTrophies=structuredClone(extra);
+    }
+    v.baseTrophies={...c,source:record.source};v.hasPlatinum=c.platinum>0;v.trophyScope='公開同平台清單；本體與追加分列；台灣區域群組未核實';
   }
   return game;
+}
+export function validateAdditional(extra,label=''){
+  const validSource=s=>s?.url?.startsWith('https://')&&/^\d{4}-\d{2}-\d{2}/.test(s.checkedAt??'');
+  if(!['none','partial','complete'].includes(extra.status)||!validSource(extra.source)||!Array.isArray(extra.groups)||(extra.status==='none'?extra.groups.length!==0:extra.groups.length===0))throw new Error('追加獎盃證據不完整 '+label);
+  const ids=new Set();
+  for(const g of extra.groups){
+    if(!g.id||ids.has(g.id)||!g.name||!['dlc','update','unknown'].includes(g.kind)||!Number.isInteger(g.total)||g.total<1||!validSource(g.source))throw new Error('追加獎盃分組無效 '+label);
+    ids.add(g.id);
+    if(g.counts&&(!['bronze','silver','gold','platinum','total'].every(k=>Number.isInteger(g.counts[k])&&g.counts[k]>=0)||g.total!==g.counts.total||g.total!==g.counts.bronze+g.counts.silver+g.counts.gold+g.counts.platinum))throw new Error('追加獎盃加總不符 '+label);
+  }
 }
 export async function enrichDisplay(){
   const snapshot=JSON.parse(await fs.readFile('data/snapshot.json','utf8'));

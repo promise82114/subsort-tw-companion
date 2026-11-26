@@ -1,5 +1,6 @@
 import {chromium} from 'playwright';
 import {preview} from 'vite';
+import {preferredVersion} from '../src/trophies.js';
 import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
 const server=await preview({configLoader:'runner',preview:{host:'127.0.0.1',port:4173,strictPort:true}});
@@ -19,7 +20,7 @@ try{
     await page.getByLabel('搜尋遊戲').fill('8號');assert.equal(await cards().count(),1);assert.match(await cards().first().innerText(),/8號出口/);
     await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('A Space for the Unbound');await page.getByLabel('平台',{exact:true}).selectOption('PS5');assert.equal(await cards().count(),0);
     await page.getByLabel('平台',{exact:true}).selectOption('PS4');assert.equal(await cards().count(),1);
-    await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('所需方案',{exact:true}).selectOption('Deluxe');assert.equal(await cards().count(),snapshot.watchlist.entries.filter(e=>e.tier==='Deluxe').length);await page.getByLabel('所需方案',{exact:true}).selectOption('Extra');assert.equal(await cards().count(),snapshot.watchlist.entries.filter(e=>e.tier==='Extra').length);await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('白金',{exact:true}).selectOption('yes');assert.equal(await cards().count(),snapshot.games.filter(g=>g.versions.some(v=>v.hasPlatinum===true)).length);
+    await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('所需方案',{exact:true}).selectOption('Deluxe');assert.equal(await cards().count(),snapshot.watchlist.entries.filter(e=>e.tier==='Deluxe').length);await page.getByLabel('所需方案',{exact:true}).selectOption('Extra');assert.equal(await cards().count(),snapshot.watchlist.entries.filter(e=>e.tier==='Extra').length);await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('白金',{exact:true}).selectOption('yes');assert.equal(await cards().count(),snapshot.games.filter(g=>preferredVersion(g)?.hasPlatinum===true).length);
     await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('類型',{exact:true}).selectOption('PUZZLE');assert.ok(await cards().count()>0);await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('排序').selectOption('main');
   });
   const first=snapshot.watchlist.entries[0],selector=`[data-game-id="${first.gameId}"]`;
@@ -66,7 +67,16 @@ try{
   await check('inline trophy counts distinguish no platinum, unknown versions and base/DLC; provenance centralized',async()=>{
     await page.getByLabel('搜尋遊戲').fill('8號');assert.match(await cards().first().locator('.risk-note').innerText(),/恐怖/);assert.match(await cards().first().locator('.graduation-goal').innerText(),/全獎盃/);assert.match(await cards().first().locator('.trophy-counts').innerText(),/4/);assert.equal(await cards().first().getByLabel('白金盃 0',{exact:true}).count(),1);
     await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('Granblue');assert.match(await cards().first().locator('.trophy-caption').innerText(),/54/);assert.doesNotMatch(await cards().first().locator('.trophy-caption').innerText(),/96/);
-    await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('Black Desert');assert.match(await cards().first().locator('.trophy-counts').innerText(),/尚待查證/);await page.getByRole('button',{name:'重設篩選'}).click();
+    await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('RIDGE RACER');assert.match(await cards().first().locator('.trophy-counts').innerText(),/尚待查證/);await page.getByRole('button',{name:'重設篩選'}).click();
+  });
+  await check('PS5 first, requested famous games filled, DLC and free updates displayed separately',async()=>{
+    for(const [query,base,total,pack]of [['Infinite Wealth',65,9,'Master Vacation Pack'],['Cyberpunk',45,13,'Phantom Liberty'],['FINAL FANTASY XVI',50,19,'The Rising Tide'],['Firefighting',41,36,'Construction Site'],['Another Crab',33,6,'Year of the Crab']]){
+      await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill(query);
+      const row=cards().first();assert.match(await row.locator('.trophy-caption').innerText(),new RegExp('PS5.*'+base));assert.match(await row.locator('.additional-caption').innerText(),new RegExp(String(total)));assert.match(await row.locator('.trophy-pack-names').innerText(),new RegExp(pack));
+    }
+    await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('Black Desert');assert.match(await cards().first().locator('.trophy-caption').innerText(),/PS5.*15/);
+    await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('Biped');assert.match(await cards().first().locator('.trophy-caption').innerText(),/PS5.*16/);await page.getByLabel('平台',{exact:true}).selectOption('PS4');assert.match(await cards().first().locator('.trophy-caption').innerText(),/PS4/);assert.match(await cards().first().locator('.trophy-base').innerText(),/尚待查證/);assert.equal(await cards().first().locator('.trophy-additional').count(),0);
+    await page.getByRole('button',{name:'重設篩選'}).click();
   });
   await check('stale import preview stops and quota failure never reports a saved status',async()=>{
     const first=snapshot.watchlist.entries[0],second=snapshot.watchlist.entries[1];const fixture={schemaVersion:1,records:{[first.gameId+'::'+first.cycleId]:{gameId:first.gameId,cycleId:first.cycleId,status:'想玩',note:'來源測試',updatedAt:'2026-11-26T09:00:00Z'}}};await page.locator('input[type=file]').setInputFiles({name:'stale.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(fixture))});const wait=page.waitForEvent('download');await page.getByRole('button',{name:'下載兩端復原備份'}).click();await wait;await page.getByLabel('已確認復原備份下載並保存').check();await page.evaluate(e=>{localStorage.setItem('subsort-tw:private:v1',JSON.stringify({schemaVersion:1,records:{[e.gameId+'::'+e.cycleId]:{gameId:e.gameId,cycleId:e.cycleId,status:'遊玩中',note:'其他分頁較晚資料',updatedAt:'2026-11-26T09:01:00Z'}}}));},second);await page.getByRole('button',{name:'確認合併與覆蓋'}).click();assert.match(await page.locator('.feedback').innerText(),/預覽後紀錄已變更/);assert.match(await page.evaluate(()=>localStorage.getItem('subsort-tw:private:v1')),/其他分頁較晚資料/);await page.evaluate(()=>localStorage.clear());await page.reload();await page.waitForSelector('.game-card');

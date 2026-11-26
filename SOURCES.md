@@ -2,7 +2,7 @@
 
 實測日期：2026-11-26，Asia/Taipei。公開可讀不等於概括再散布授權；只保存必要事實、連結與自行撰寫的判斷。原始 HTML／JSON 存於忽略的 cache，不提交；不複製上游介面、文案或登入資料。
 
-最新補充：已分離數量與攻略，23款至少一平台有本體獎盃數，20款仍待查；43張封面採台灣目錄的image.api.playstation.com縮圖。快速查找、403與robots限制、本體／DLC核對見[精簡介面與獎盃研究](reports/ui-refinement-20261126.md)，實際數字來源位於data/trophy-counts.json。下方三份攻略是首次研究的白金時間來源，數量不再只限於這三款。
+最新補充：41／43款優先平台已有本體獎盃數，14款另列30組追加獎盃，2款經典支援／版本待查；43張封面採台灣目錄的image.api.playstation.com縮圖。快速查找、403與robots限制、本體／DLC核對見[精簡介面與獎盃研究](reports/ui-refinement-20261126.md)，實際數字來源位於data/trophy-counts.json。下方三份攻略是首次研究的白金時間來源，數量不再只限於這三款。
 
 ## SubSort：可自動取得
 
@@ -39,7 +39,7 @@
 
 一般更新沿用既有研究；新遊戲缺證據保持null。`seed-research.mjs` 僅重建首次研究，日後不要覆蓋新研究。指定重評須先補查事實，再用 `update --reevaluate`。
 
-## 獎盃：攻略可用，台灣NP群組未知
+## 獎盃：本體、DLC與更新分列，台灣NP群組未知
 
 已查閱下列公開攻略，只整理本體事實，不含DLC：
 
@@ -49,7 +49,7 @@
 |Resident Evil Village／PS4、PS5攻略範圍|50：銅40銀6金3白金1|20–25小時|[攻略](https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/)|
 |Life is Strange: Double Exposure／PS5|33：銅8銀21金3白金1|15小時以上|[攻略](https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/)|
 
-攻略儲存於 `data/trophy-research.json`；數量補充獨立放 `data/trophy-counts.json`，不依賴完整攻略。本輪23款至少一平台有數量、20款仍未知；除上述3款外沒有據此推導白金時間。平台與台灣NP群組未核實的範圍於來源頁說明。PSNProfiles的Web工具存取未成功，未繞過；未使用需要NPSSO憑證的psn-api。不猜區域群組ID。
+攻略儲存於 `data/trophy-research.json`；數量補充獨立放 `data/trophy-counts.json`，不依賴完整攻略。目前41款優先平台有數量、2款仍未知；除上述3款外沒有據此推導白金時間。平台與台灣NP群組未核實的範圍於來源頁說明。PSNProfiles的Web工具存取未成功，未繞過；未使用需要NPSSO憑證的psn-api。不猜區域群組ID。
 
 補數量以TrueTrophies公開搜尋索引的本體分組及平台資訊人工複核，取得方式明列public-search-index-reviewed；[本體／DLC示例](https://www.truetrophies.com/game/granblue-fantasy-relink/trophies)。直接HTTP回403時不繞過。[PSN API公開文件](https://github.com/andshrew/PlayStation-Trophies/blob/master/docs/APIv2.md)所需登入Token不引入本專案。
 
@@ -64,3 +64,11 @@
 `npm run import:list -- PATH` 支援JSON／CSV／Markdown，先暫存再驗證，不直接替換。需要穩定ID、日期與完整清單證據。無合法來源時向使用者索取真實匯出，不以其他網站冒充SubSort。
 
 網站本身無上游API／登入／追蹤請求。依使用者介面偏好改用系統字型，不載入遠端字型。快取、profile及私人筆記均不發布。
+
+## 2026-11-26 獎盃擴充
+
+原缺項包含未完成的人工補查，不能稱為知名作品沒有資料。Codex使用公開搜尋索引逐項核對同平台、本體與追加分組，不需等完整白金攻略。本輪41／43款採PS5優先平台（僅PS4者保留PS4），14款／30組DLC或更新獎盃。本體與追加、各追加分組各有網址與查核日期；分組總數已核實但類別細數不足時counts=null，不捏造銅銀金數。
+
+`additional.status=none` 表示查核當日該平台完整獎盃清單未列追加組，不表示沒有DLC商品；缺少additional才是未研究。complete是已核對所有當前列出的組，partial只表示已知部分。不同平台不共用追加資料。追加盃不代表訂閱包含DLC；update與dlc分開標示。Atlas Fallen: Reign of Sand的免費更新性質另由[發行商公告](https://www.focus-entmt.com/en/news/atlas-fallen-reign-of-sand-major-free-overhaul-now-available)確認。
+
+《黑色沙漠》使用2025年推出的PS5清單15盃，不混入已停止支援的PS4清單；《人中之龍8》65＋9、《2077》45＋13。ANNO的PS5採明確標示EU的公開清單36盃；目前仍未確認台灣NP群組一致，不能宣稱台灣群組已驗證。Ridge Racer及Soulcalibur III的缺口、歷史證據存於data/trophy-counts.json的researchGaps；不套用重製版、Arcade Archives或其他平台。完整結果見[擴充報告](reports/trophy-expansion-20261126.md)。

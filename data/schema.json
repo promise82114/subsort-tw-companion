@@ -402,6 +402,9 @@
               },
               "source": {
                 "$ref": "#/definitions/source"
+              },
+              "additionalTrophies": {
+                "$ref": "#/definitions/additionalTrophies"
               }
             }
           }
@@ -532,6 +535,102 @@
             },
             "alt": {
               "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "additionalTrophies": {
+      "type": "object",
+      "required": [
+        "status",
+        "groups",
+        "source"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "none",
+            "partial",
+            "complete"
+          ]
+        },
+        "source": {
+          "$ref": "#/definitions/source"
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "name",
+              "kind",
+              "total",
+              "counts",
+              "source"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kind": {
+                "enum": [
+                  "dlc",
+                  "update",
+                  "unknown"
+                ]
+              },
+              "total": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "counts": {
+                "type": [
+                  "object",
+                  "null"
+                ],
+                "required": [
+                  "total",
+                  "bronze",
+                  "silver",
+                  "gold",
+                  "platinum"
+                ],
+                "properties": {
+                  "total": {
+                    "type": "integer",
+                    "minimum": 1
+                  },
+                  "bronze": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "silver": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "gold": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "platinum": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "source": {
+                    "$ref": "#/definitions/source"
+                  }
+                }
+              },
+              "source": {
+                "$ref": "#/definitions/source"
+              }
             }
           }
         }

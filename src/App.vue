@@ -2,6 +2,7 @@
 import {computed,ref,onMounted,onUnmounted,nextTick} from 'vue';
 import SourcePanel from './SourcePanel.vue';
 import TrophyCounts from './TrophyCounts.vue';
+import {preferredVersion} from './trophies.js';
 import snapshot from '../data/snapshot.json';
 import {STATUSES,recordKey,emptyPrivate,loadPrivate,validatePrivate,planCleanup,applyCleanup,makeChange,undoChange,sortGames,formatHours} from './domain.js';
 const meta=snapshot.metadata;
@@ -22,7 +23,7 @@ const all=computed(()=>snapshot.watchlist.entries.filter(e=>!e.suspended).map(e=
 const genres=computed(()=>[...new Set(all.value.flatMap(e=>e.game.genres))].sort());
 const key=e=>recordKey(e.gameId,e.cycleId);
 const record=e=>privateData.value.records[key(e)]??{status:'待評估',note:''};
-const hasPlatinum=e=>{const versions=e.game.versions.filter(v=>!platform.value||v.platform===platform.value);return versions.some(v=>v.hasPlatinum===true)?'yes':versions.every(v=>v.hasPlatinum===false)?'no':'unknown';};
+const hasPlatinum=e=>{const v=preferredVersion(e.game,platform.value);return v?.hasPlatinum===true?'yes':v?.hasPlatinum===false?'no':'unknown';};
 const filtered=computed(()=>sortGames(all.value.filter(e=>{
   const g=e.game,s=record(e).status;
   return (!query.value||`${g.nameEn} ${g.nameZh??''}`.toLocaleLowerCase().includes(query.value.trim().toLocaleLowerCase()))&&(!tier.value||e.tier===tier.value)&&(!platform.value||e.platforms.includes(platform.value))&&(!genre.value||g.genres.includes(genre.value))&&(!platinum.value||hasPlatinum(e)===platinum.value)&&(!status.value||s===status.value)&&((showHidden.value||status.value==='完成'||status.value==='略過')||!['完成','略過'].includes(s));
@@ -123,7 +124,7 @@ const displayDate=value=>value?new Date(value).toLocaleString('zh-TW',{timeZone:
                 <div class="row-name"><span class="rank" :class="{priority:['S','A'].includes(e.game.evaluation.rank)}" :aria-label="'推薦'+(e.game.evaluation.rank??'待評估')">{{ e.game.evaluation.rank??'待評估' }}</span><div><h2>{{ title(e.game) }}</h2><p v-if="e.game.nameZh" class="english">{{ e.game.nameEn }}</p><p class="genre-line">{{ e.platforms.join(' / ') }} · {{ e.tier==='Deluxe'?'高級':'升級' }} · {{ e.game.genres.map(genreName).join('／') }}<span class="added-at" title="SubSort美帳入庫日期">入庫 <time :datetime="e.addedAt??undefined">{{ e.addedAt??'未知' }}</time></span></p></div></div>
                 <div class="row-numbers"><dl class="game-facts"><div><dt>主線</dt><dd>{{ formatHours(e.game.mainHours) }}</dd></div><div><dt>評分</dt><dd>{{ e.game.rating?e.game.rating.score+' / 100':'未知' }}</dd></div></dl><TrophyCounts :game="e.game" :platform="platform" /></div>
               </div>
-              <p class="graduation-goal"><span class="goal-tag">{{ e.game.evaluation.goal?'建議'+e.game.evaluation.goal+'畢業':'待評估' }}</span><small v-if="e.game.evaluation.goal==='白金' && !e.game.versions.some(v=>v.hasPlatinum===true)">（白金有無與條件待查）</small></p>
+              <p class="graduation-goal"><span class="goal-tag">{{ e.game.evaluation.goal?'建議'+e.game.evaluation.goal+'畢業':'待評估' }}</span><small v-if="e.game.evaluation.goal==='白金' && preferredVersion(e.game,platform)?.hasPlatinum!==true">（白金有無與條件待查）</small></p>
               <p class="reason">{{ shortReason(e.game) }}</p>
               <p v-for="risk in e.game.evaluation.risks" :key="risk" class="risk-note">提醒：{{ risk }}</p>
               <div class="row-actions"><div class="status-actions" role="group" :aria-label="title(e.game)+'的遊玩狀態'"><span class="status-label">我的狀態</span><button v-for="s in ['想玩','遊玩中','完成','略過']" :key="s" :aria-pressed="record(e).status===s" :disabled="storageBlocked" @click="setStatus(e,s)">{{ record(e).status===s?'✓ ':'' }}{{ s }}</button></div></div>
