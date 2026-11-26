@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "229066": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 54,
+          "bronze": 44,
+          "silver": 7,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/granblue-fantasy-relink/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      },
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 54,
+          "bronze": 44,
+          "silver": 7,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/granblue-fantasy-relink-v2/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "234471": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 24,
+          "bronze": 9,
+          "silver": 7,
+          "gold": 7,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/coffee-talk/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      },
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 24,
+          "bronze": 9,
+          "silver": 7,
+          "gold": 7,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/coffee-talk-v2/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "235235": {
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 50,
+          "bronze": 40,
+          "silver": 6,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-guide-reviewed"
+      },
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 50,
+          "bronze": 40,
+          "silver": 6,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-guide-reviewed"
+      }
+    },
+    "10001119": {
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 36,
+          "bronze": 18,
+          "silver": 14,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/anno-mutationem-ps4/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10002100": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 50,
+          "bronze": 40,
+          "silver": 6,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-guide-reviewed"
+      }
+    },
+    "10002689": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 37,
+          "bronze": 22,
+          "silver": 10,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/atlas-fallen/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10003484": {
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 56,
+          "bronze": 48,
+          "silver": 5,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/eiyuden-chronicle-hundred-heroes-ps4/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10004780": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 53,
+          "bronze": 42,
+          "silver": 8,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/coffee-talk-episode-2/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      },
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 53,
+          "bronze": 42,
+          "silver": 8,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/coffee-talk-episode-2-ps4/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10005843": {
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 26,
+          "bronze": 7,
+          "silver": 12,
+          "gold": 6,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/a-space-for-the-unbound-ps4/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10006098": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 43,
+          "bronze": 30,
+          "silver": 9,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/banishers-ghosts-of-new-eden/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10007859": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 31,
+          "bronze": 6,
+          "silver": 20,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/cat-quest-iii/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      },
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 31,
+          "bronze": 6,
+          "silver": 20,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/cat-quest-iii-ps4/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10008183": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 33,
+          "bronze": 8,
+          "silver": 21,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-guide-reviewed"
+      }
+    },
+    "10008409": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 41,
+          "bronze": 30,
+          "silver": 6,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10008755": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 41,
+          "bronze": 26,
+          "silver": 10,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/sonic-x-shadow-generations/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      },
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 41,
+          "bronze": 26,
+          "silver": 10,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/sonic-x-shadow-generations-ps4/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10008945": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 48,
+          "bronze": 36,
+          "silver": 8,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/a-little-to-the-left/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      },
+      "PS4": {
+        "platform": "PS4",
+        "scope": "base",
+        "counts": {
+          "total": 48,
+          "bronze": 36,
+          "silver": 8,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/a-little-to-the-left-v2/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10009025": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 39,
+          "bronze": 26,
+          "silver": 8,
+          "gold": 4,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/planet-zoo/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10009366": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 53,
+          "bronze": 38,
+          "silver": 13,
+          "gold": 1,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/a-quiet-place-the-road-ahead/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10009597": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 55,
+          "bronze": 46,
+          "silver": 6,
+          "gold": 2,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/darkest-dungeon-2/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10009923": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 33,
+          "bronze": 20,
+          "silver": 6,
+          "gold": 6,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/another-crabs-treasure/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10011105": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 4,
+          "bronze": 0,
+          "silver": 0,
+          "gold": 4,
+          "platinum": 0
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/the-exit-8/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10011854": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 43,
+          "bronze": 26,
+          "silver": 13,
+          "gold": 3,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/blades-of-fire/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10014385": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 27,
+          "bronze": 6,
+          "silver": 14,
+          "gold": 6,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/skate-story/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    },
+    "10017591": {
+      "PS5": {
+        "platform": "PS5",
+        "scope": "base",
+        "counts": {
+          "total": 21,
+          "bronze": 2,
+          "silver": 10,
+          "gold": 8,
+          "platinum": 1
+        },
+        "source": {
+          "url": "https://www.truetrophies.com/game/gitaroo-man/trophies",
+          "checkedAt": "2026-11-26"
+        },
+        "acquisition": "public-search-index-reviewed",
+        "regionVerification": "TW NP group unverified"
+      }
+    }
+  }
+}

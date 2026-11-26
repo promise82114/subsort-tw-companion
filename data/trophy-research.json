@@ -1,0 +1,60 @@
+{
+  "235235": {
+    "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+    "checkedAt": "2026-11-26",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "counts": {
+      "total": 50,
+      "bronze": 40,
+      "silver": 6,
+      "gold": 3,
+      "platinum": 1
+    },
+    "hours": {
+      "min": 20,
+      "max": 25
+    },
+    "difficulty": "7/10；傭兵模式需技巧"
+  },
+  "10002100": {
+    "url": "https://www.powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap/",
+    "checkedAt": "2026-11-26",
+    "platforms": [
+      "PS5"
+    ],
+    "counts": {
+      "total": 50,
+      "bronze": 40,
+      "silver": 6,
+      "gold": 3,
+      "platinum": 1
+    },
+    "hours": {
+      "min": 70,
+      "max": 90
+    },
+    "difficulty": "3/10（自動迴避配件）–5/10（不使用配件）"
+  },
+  "10008183": {
+    "url": "https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/",
+    "checkedAt": "2026-11-26",
+    "platforms": [
+      "PS5"
+    ],
+    "counts": {
+      "total": 33,
+      "bronze": 8,
+      "silver": 21,
+      "gold": 3,
+      "platinum": 1
+    },
+    "hours": {
+      "min": 15,
+      "max": null
+    },
+    "difficulty": "2/10"
+  }
+}

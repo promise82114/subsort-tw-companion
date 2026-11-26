@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-11-26T08:35:44.741Z",
+  "urls": {
+    "source": "https://www.subsort.gg/en?xb=0&av=ll",
+    "catalog": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+    "classics": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list"
+  },
+  "checks": [
+    {
+      "name": "subsort-robots",
+      "url": "https://www.subsort.gg/robots.txt",
+      "sha256": "21543c15060686782a7d6ced70004320dcce7e130bb3ab8660ea04c7b2a5b2ee",
+      "status": "read"
+    },
+    {
+      "name": "ps-robots",
+      "url": "https://www.playstation.com/robots.txt",
+      "sha256": "d2913d328e723af991064ed12a620c979d31bcc1aa312e545270d559a995042a",
+      "status": "read"
+    },
+    {
+      "name": "store-robots",
+      "url": "https://store.playstation.com/robots.txt",
+      "sha256": "ee88b91057a6d3187380edd95aed244674848b9ce5835749d8617f759602c94b",
+      "status": "read"
+    },
+    {
+      "name": "subsort-terms",
+      "url": "https://www.subsort.gg/en/terms",
+      "sha256": "b8b5e50094c8da0df60c4ad13324be5054e5a53d924eef7a1bfd8969da6828f8",
+      "status": "read"
+    }
+  ],
+  "adapter": {
+    "filter": {
+      "url": "https://www.subsort.gg/_next/static/immutable/chunks/37yqzfnkiycnk.js",
+      "sha256": "a801cfc2ac892ab8d0eaeae05071d3452f1e7e60b33c85d657725a63f085a683"
+    },
+    "defaults": {
+      "url": "https://www.subsort.gg/_next/static/immutable/chunks/3-gs0ah6k8-nl.js",
+      "sha256": "651cc57e662d793b9645424716fe94b1848785e7b0c033301aa13779a106c460"
+    },
+    "defaultPlan": "Premium(PS)",
+    "xb": "disabled",
+    "av": "likelyLeaving",
+    "sort": "added-date-desc",
+    "timeZone": "Asia/Taipei",
+    "pagination": "all games in one public response; upstream client consumes games array"
+  },
+  "counts": {
+    "upstream": 1558,
+    "candidates": 55,
+    "gameCatalog": 380,
+    "classicsCatalog": 150
+  }
+}

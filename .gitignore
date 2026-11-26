@@ -1,0 +1,9 @@
+node_modules/
+dist/
+cache/
+.local/
+.taste-skill/
+test-results/
+playwright-report/
+*.local
+*.log

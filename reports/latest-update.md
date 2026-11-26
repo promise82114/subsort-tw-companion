@@ -1,0 +1,28 @@
+# 首次／最新資料更新
+
+- 台灣日期：2026-11-26；擷取時間：2026-11-26T08:42:24.360Z
+- 快照：snapshot-6590ae3da35c4f29f5a3302e
+- 上游全量 1558；指定候選 55；台帳目錄 530（遊戲 380／經典 150）
+- 原站指定網址語意：xb=0、av=ll、預設 Premium(PS)；不可誤限縮為 Extra。
+- 台帳確認 43（升級以上 35／高級 8）；排除 0；待查 12
+- 本次研究 1；沿用研究 42；有分級 42；待評估 1。未知欄位保留 null。
+- 新增：無
+- 本次確認移除：無
+- 官方出庫：未取得足以逐版確認的台灣公告，日期全部未知；上游預測不轉成官方資訊。
+- 獎盃：3 款有公開本體攻略；台灣 NP 群組尚未取得。
+- 台帳待查項目：
+  - INDIGO PROPHECY：台帳目錄無相同 concept ID；不代表未入庫
+  - art of rally：台帳目錄無相同 concept ID；不代表未入庫
+  - PAW Patrol World：台帳目錄無相同 concept ID；不代表未入庫
+  - PAW Patrol: Grand Prix：台帳目錄無相同 concept ID；不代表未入庫
+  - Bluey: The Videogame：台帳目錄無相同 concept ID；不代表未入庫
+  - ENDLESS Dungeon - Definitive Edition PS4 & PS5：台帳目錄無相同 concept ID；不代表未入庫
+  - FBC: Firebreak：台帳目錄無相同 concept ID；不代表未入庫
+  - theHunter: Call of the Wild：台帳目錄無相同 concept ID；不代表未入庫
+  - Train Sim World 5: Standard Edition PS4 & PS5：台帳目錄無相同 concept ID；不代表未入庫
+  - Citizen Sleeper：台帳目錄無相同 concept ID；不代表未入庫
+  - Orcs Must Die! 3 PS4 & PS5：台帳目錄無相同 concept ID；不代表未入庫
+  - Poker Club PS4 & PS5：台帳目錄無相同 concept ID；不代表未入庫
+- 以 concept ID 或完整 product ID 與共同平台比對；不按名稱自動合併；目錄缺少者不判定排除。
+- 驗證：JSON schema、引用、重複 ID、獎盃加總通過；測試與建置見 reports/acceptance.md。
+- 發布：僅本機；未 commit、未 push。

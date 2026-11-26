@@ -1,0 +1,1252 @@
+{
+  "entries": [
+    {
+      "gameId": "ss-VTo8TgUfFmbtjle0Kfyu",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 1,
+      "addedAt": "2026-07-21",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-fc60f37ec8297f3e916f3ab9"
+    },
+    {
+      "gameId": "ss-8A0w3BPClOtTvuW5vlvU",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 3,
+      "addedAt": "2026-07-21",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-54d3ed737bb422984453e010"
+    },
+    {
+      "gameId": "ss-lqUBkXaZ4RuIoyLTRQ5h",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 4,
+      "addedAt": "2026-06-30",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-594098692fdc6986661f8681"
+    },
+    {
+      "gameId": "ss-hnL1VJONfevRXhtwlc6F",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 5,
+      "addedAt": "2026-06-30",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-389bff9dbe0da958ed7d4d4c"
+    },
+    {
+      "gameId": "ss-6LJsVe0NL8S1hn2455gK",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 6,
+      "addedAt": "2026-06-30",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-f012fa49ba9cc810fb266a08"
+    },
+    {
+      "gameId": "ss-mby1GrAF0TOPZAPvBW6J",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 7,
+      "addedAt": "2026-06-23",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-ec56db689e99cd27c1bd4194"
+    },
+    {
+      "gameId": "ss-6zViPHzxhU0XLQLW0WGG",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 8,
+      "addedAt": "2026-06-23",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-195ddc30fcc846d45397e7a8"
+    },
+    {
+      "gameId": "ss-DKJNkDy083w2W60H4WPD",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 9,
+      "addedAt": "2026-06-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-8e042eebf152b9c4e90ee401"
+    },
+    {
+      "gameId": "ss-1fnpoRMCpgI683bOFYFk",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 10,
+      "addedAt": "2026-06-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-810d2613235e9a06e2916494"
+    },
+    {
+      "gameId": "ss-9QO5Td9DcVbmQmDtwvU7",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 11,
+      "addedAt": "2026-06-10",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-6e3ac64a78e59581e2df872b"
+    },
+    {
+      "gameId": "ss-iSfBwy5eflDDaNhAXPSw",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 12,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-89de3d9bcf0d1934ccb4db4a"
+    },
+    {
+      "gameId": "ss-MgxTBVvjFVdVAl0e3gXk",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 13,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-a6807b134fea35cf3f5058f8"
+    },
+    {
+      "gameId": "ss-ZfL2J32gWXaLBbwsvs5X",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 15,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-efc64ae0d292b3565d05c47a"
+    },
+    {
+      "gameId": "ss-frPoOMl4zjA7fetzbAgO",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 16,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-9919618c54ecc9451fbba514"
+    },
+    {
+      "gameId": "ss-RdKP8fzh9wAJIiLylFRU",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 17,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-7fc4306612a258e7df658e04"
+    },
+    {
+      "gameId": "ss-tyRoVULGDkjjGrC3fcPH",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 18,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-dc17b053714d8daa6b106be2"
+    },
+    {
+      "gameId": "ss-JdqWCqHCfUXMFcjy65dN",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 19,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-e1b60a8616f957dcdc686578"
+    },
+    {
+      "gameId": "ss-tN8pqXpJwjw4sGDVipao",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 20,
+      "addedAt": "2026-01-20",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-e907b789d50a7384c2311de3"
+    },
+    {
+      "gameId": "ss-FdM8nevwWTznyODhIVwH",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 21,
+      "addedAt": "2025-12-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-19687c897d1b2a908c7e7f92"
+    },
+    {
+      "gameId": "ss-jfrIWkLZ90mKdRWGiOrF",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 22,
+      "addedAt": "2025-12-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": true
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-f969b1d8d6e140f6a175a2dc"
+    },
+    {
+      "gameId": "ss-IYk84inDBvmg2pwQdsuK",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 25,
+      "addedAt": "2025-12-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-abd96771cca646fda9b2e9b3"
+    },
+    {
+      "gameId": "ss-cgRkWl3f9UpSgAtFMOl2",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 26,
+      "addedAt": "2025-12-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-ece14e55f58d42ef88bcc747"
+    },
+    {
+      "gameId": "ss-7kQsHwIWJdu6h4RuFOpM",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 27,
+      "addedAt": "2025-12-16",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-74e2745a04445d181b1ec7b0"
+    },
+    {
+      "gameId": "ss-K8VcjoCR1Tal14FIXYsi",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 28,
+      "addedAt": "2025-12-08",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-ada09661f2bdac72ca27ae3e"
+    },
+    {
+      "gameId": "ss-lDpUHsAcqLRNfPemB0sV",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 29,
+      "addedAt": "2025-07-22",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-f7ba4fc033a1b7a5cc0a9561"
+    },
+    {
+      "gameId": "ss-FbJ4tEzDF4py31vAEgEv",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 30,
+      "addedAt": "2025-07-15",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-aa15817fb3f1369637dfc6cf"
+    },
+    {
+      "gameId": "ss-r00dJXAm93koJQKADwvb",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 32,
+      "addedAt": "2025-07-15",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-22542a581e2f732176e19b15"
+    },
+    {
+      "gameId": "ss-GMp6QNqNEx9HUXKzfZoD",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 33,
+      "addedAt": "2025-07-09",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-191281d1829828b8f829d137"
+    },
+    {
+      "gameId": "ss-Wwcx9CMXIKf9nKjjnEpR",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 34,
+      "addedAt": "2025-06-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-212d06953751a3f8acdee4d4"
+    },
+    {
+      "gameId": "ss-zEOmU0fpZsNkeASOWMRc",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 35,
+      "addedAt": "2025-06-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-b5b26776dc54ed59bfbba14e"
+    },
+    {
+      "gameId": "ss-lYgXJRjXS4oPOFR0AX1f",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 38,
+      "addedAt": "2025-06-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-fff9101529f6ffdfd57e6b07"
+    },
+    {
+      "gameId": "ss-te7eQXF4Y9eLedUravd8",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 41,
+      "addedAt": "2025-06-05",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-b8716a933f85b5845ad7366a"
+    },
+    {
+      "gameId": "ss-L3Imh6GnXrTcWI34eUwi",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 42,
+      "addedAt": "2025-06-05",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-a086c290984c7dc0a45acef7"
+    },
+    {
+      "gameId": "ss-U4JnhHCkF480rvOFInBU",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 43,
+      "addedAt": "2025-05-29",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-a4494f99b9d97c17bdec6fe5"
+    },
+    {
+      "gameId": "ss-HqTAxLZhz91JbucaFN1t",
+      "tier": "Extra",
+      "platforms": [
+        "PS5",
+        "PS4"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 44,
+      "addedAt": "2025-01-21",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-324622825714cf085fd103ea"
+    },
+    {
+      "gameId": "ss-TUWU3BjxcTYvWmQv6Yzc",
+      "tier": "Extra",
+      "platforms": [
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 45,
+      "addedAt": "2025-01-21",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-76dc8c0e480836d2462b7b37"
+    },
+    {
+      "gameId": "ss-kczlaTz1eRoyE2brqFYD",
+      "tier": "Deluxe",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 47,
+      "addedAt": "2025-01-21",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-bd5324151a0b341ca68bcce8"
+    },
+    {
+      "gameId": "ss-Ijvc9yFav8MTeIlk566o",
+      "tier": "Extra",
+      "platforms": [
+        "PS4"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 50,
+      "addedAt": "2024-12-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-565c909eab6b8ce8c072ced5"
+    },
+    {
+      "gameId": "ss-owO3Pu498fXq2TksHX94",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 51,
+      "addedAt": "2024-12-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-86d36cabf1d0ee3cf7f0ad7a"
+    },
+    {
+      "gameId": "ss-yMcAdFQYyyeGWX1pUBJL",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 52,
+      "addedAt": "2024-12-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-1ff8c803f94292039faddc1f"
+    },
+    {
+      "gameId": "ss-SNehmvdNs60LlOb9TRPY",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 53,
+      "addedAt": "2024-12-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-a5bfe2f9478f4d95076f8467"
+    },
+    {
+      "gameId": "ss-8UeZViuUKcWSXf1nnefe",
+      "tier": "Extra",
+      "platforms": [
+        "PS4"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 54,
+      "addedAt": "2024-12-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-c660820ea575b5934a511d74"
+    },
+    {
+      "gameId": "ss-3OkSuxi59uSlLVzrIi0c",
+      "tier": "Extra",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+      "upstreamRank": null,
+      "upstreamPosition": 55,
+      "addedAt": "2024-12-17",
+      "prediction": {
+        "kind": "third-party-pattern",
+        "label": "SubSort 週期預測；非官方公告",
+        "basis": "第三方、非免費，入庫未滿24個月，每6個月週期之前約2個月",
+        "source": {
+          "url": "https://www.subsort.gg/en?xb=0&av=ll",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "upstreamLeavingDate": null,
+        "isLastChance": false
+      },
+      "officialDeparture": null,
+      "cycleId": "cycle-c0b8145834e5751a3aa5df6e"
+    }
+  ],
+  "pending": [
+    {
+      "gameId": "ss-d2InLPsGZGvhrSp5Pc6S",
+      "upstreamId": "d2InLPsGZGvhrSp5Pc6S",
+      "name": "INDIGO PROPHECY",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/221705"
+    },
+    {
+      "gameId": "ss-Zqc0qz7pfR5NSzG4acnt",
+      "upstreamId": "Zqc0qz7pfR5NSzG4acnt",
+      "name": "art of rally",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10002789"
+    },
+    {
+      "gameId": "ss-Amn5pBYsCkouXfj1C8rL",
+      "upstreamId": "Amn5pBYsCkouXfj1C8rL",
+      "name": "PAW Patrol World",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10005670"
+    },
+    {
+      "gameId": "ss-2WARR16wn3gv96IEBrcY",
+      "upstreamId": "2WARR16wn3gv96IEBrcY",
+      "name": "PAW Patrol: Grand Prix",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10003932"
+    },
+    {
+      "gameId": "ss-7O5LZuGBOKS7rnDrm1Iz",
+      "upstreamId": "7O5LZuGBOKS7rnDrm1Iz",
+      "name": "Bluey: The Videogame",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10006070"
+    },
+    {
+      "gameId": "ss-XVvTG7Y9QKjIUHr1w8mA",
+      "upstreamId": "XVvTG7Y9QKjIUHr1w8mA",
+      "name": "ENDLESS Dungeon - Definitive Edition PS4 & PS5",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10002162"
+    },
+    {
+      "gameId": "ss-i6Q2b9FIQ0mipSYGdm8W",
+      "upstreamId": "i6Q2b9FIQ0mipSYGdm8W",
+      "name": "FBC: Firebreak",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10012303"
+    },
+    {
+      "gameId": "ss-1BuwSrPcKGL5W9XQmZIN",
+      "upstreamId": "1BuwSrPcKGL5W9XQmZIN",
+      "name": "theHunter: Call of the Wild",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/228868"
+    },
+    {
+      "gameId": "ss-Byhq7JgcrBUwPncmRXfz",
+      "upstreamId": "Byhq7JgcrBUwPncmRXfz",
+      "name": "Train Sim World 5: Standard Edition PS4 & PS5",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10011130"
+    },
+    {
+      "gameId": "ss-2nKC3YbHc70wU9RDX09T",
+      "upstreamId": "2nKC3YbHc70wU9RDX09T",
+      "name": "Citizen Sleeper",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10007275"
+    },
+    {
+      "gameId": "ss-cfN9sJzkBByhR7YXvJuD",
+      "upstreamId": "cfN9sJzkBByhR7YXvJuD",
+      "name": "Orcs Must Die! 3 PS4 & PS5",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10002601"
+    },
+    {
+      "gameId": "ss-S5nDMfeYFDlVcAA0fhr6",
+      "upstreamId": "S5nDMfeYFDlVcAA0fhr6",
+      "name": "Poker Club PS4 & PS5",
+      "reason": "台帳目錄無相同 concept ID；不代表未入庫",
+      "source": {
+        "url": "https://www.subsort.gg/en?xb=0&av=ll",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      "storeUrl": "https://store.playstation.com/en-us/concept/10000299"
+    }
+  ],
+  "excluded": []
+}

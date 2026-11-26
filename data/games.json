@@ -1,0 +1,4769 @@
+[
+  {
+    "gameId": "ss-VTo8TgUfFmbtjle0Kfyu",
+    "upstreamId": "VTo8TgUfFmbtjle0Kfyu",
+    "twConceptId": "10008409",
+    "nameZh": null,
+    "nameEn": "Firefighting Simulator: Ignite",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SIMULATION"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP2430-PPSA17456_00-0206793519245545",
+        "catalogProductId": "EP2430-PPSA17456_00-0206793519245545",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 41,
+          "bronze": 30,
+          "silver": 6,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/firefighting-simulator-ignite/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008409",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 26,
+      "max": 26,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/175679"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": null,
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以消防工具分工與救災任務為主，可由 NPC 隊員協助單人遊玩。適合想換一種模擬題材時嘗試。",
+      "risks": [
+        "任務導向的模擬操作是否合口味需試玩"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008409",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008409",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008409.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1911/44718863baaf28732bac7f9914aa06a1d7251364d3393f0d.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Firefighting Simulator: Ignite"
+    }
+  },
+  {
+    "gameId": "ss-lqUBkXaZ4RuIoyLTRQ5h",
+    "upstreamId": "lqUBkXaZ4RuIoyLTRQ5h",
+    "twConceptId": "233032",
+    "nameZh": null,
+    "nameEn": "Black Desert",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ACTION",
+      "ROLE_PLAYING_GAMES",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP4162-PPSA22500_00-0558223561392206",
+        "catalogProductId": "UP4162-PPSA22500_00-0558223561392206",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/233032",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": null,
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 75,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/black-desert/"
+      }
+    },
+    "evaluation": {
+      "rank": "C",
+      "goal": "休閒",
+      "reason": "結合戰鬥、交易、採集等長期養成的 MMORPG。依偏好單人體驗與有限時間的準則，優先度較低。",
+      "risks": [
+        "多人線上世界與長期養成；建議先休閒體驗，白金留待有興趣再挑戰"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/233032",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/233032",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/233032.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0322/6c5b321746b4697a004cfa20a85ce8bef404953c59ba6063.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Black Desert"
+    }
+  },
+  {
+    "gameId": "ss-hnL1VJONfevRXhtwlc6F",
+    "upstreamId": "hnL1VJONfevRXhtwlc6F",
+    "twConceptId": "10011854",
+    "nameZh": "《烈焰之刃》 Blades of Fire",
+    "nameEn": "Blades of Fire",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP4040-PPSA26312_00-0000BLADESOFFIRE",
+        "catalogProductId": "UP4040-PPSA26312_00-0000BLADESOFFIRE",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 43,
+          "bronze": 26,
+          "silver": 13,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/blades-of-fire/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10011854",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 32,
+      "max": 32,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/164588"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 71,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/blades-of-fire/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以鍛造武器和針對敵人部位進攻為核心，有鮮明的戰鬥特色。適合願意投入武器研究的動作玩家。",
+      "risks": [
+        "官方強調具挑戰性的戰鬥；可能需要反覆練習"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10011854",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10011854",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10011854.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2114/ede51516d8940287b4082db9fd1c4e17b09c9c6f94344626.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "《烈焰之刃》 Blades of Fire"
+    }
+  },
+  {
+    "gameId": "ss-6LJsVe0NL8S1hn2455gK",
+    "upstreamId": "6LJsVe0NL8S1hn2455gK",
+    "twConceptId": "10009612",
+    "nameZh": null,
+    "nameEn": "Farming Simulator 25",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SIMULATOR"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP4399-PPSA19644_00-FARMSIMULAT25PS5",
+        "catalogProductId": "EP4399-PPSA19644_00-FARMSIMULAT25PS5",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009612",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": null,
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 75,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/farming-simulator-25/"
+      }
+    },
+    "evaluation": {
+      "rank": "C",
+      "goal": "白金",
+      "reason": "以作物、生產鏈與農機經營為核心，適合把農業模擬當長期休閒。對想在短期內完成一段單人體驗的需求，優先度較低。",
+      "risks": [
+        "經營循環與長期投入；無明確畢業點"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009612",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009612",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009612.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1221/5e7b5321408d56da66ffbb45abae3d2f812b0a1dd03cee5d.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Farming Simulator 25"
+    }
+  },
+  {
+    "gameId": "ss-mby1GrAF0TOPZAPvBW6J",
+    "upstreamId": "mby1GrAF0TOPZAPvBW6J",
+    "twConceptId": "227410",
+    "nameZh": null,
+    "nameEn": "Kingdom Come: Deliverance",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES",
+      "ADVENTURE",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "EP4062-PPSA28731_00-0405812491993057",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/227410",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "EP4062-PPSA28731_00-0405812491993057",
+        "catalogProductId": "EP4062-PPSA28731_00-0405812491993057",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/227410",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 43,
+      "max": 43,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/21697"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 76,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/kingdom-come-deliverance/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "主線",
+      "reason": "寫實中世紀開放世界，任務選擇會改變後果，角色成長可提供投入感。適合預留較長時間探索。",
+      "risks": [
+        "商店明示具挑戰性的戰鬥；長篇探索成本"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/227410",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/227410",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/227410.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0313/8d0a12037596ef54fb9f7e79bd77bca4942df26119014b2c.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Kingdom Come: Deliverance"
+    }
+  },
+  {
+    "gameId": "ss-6zViPHzxhU0XLQLW0WGG",
+    "upstreamId": "6zViPHzxhU0XLQLW0WGG",
+    "twConceptId": "10008183",
+    "nameZh": "《奇異人生：雙重曝光》",
+    "nameEn": "Life is Strange: Double Exposure",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP0082-PPSA16105_00-0460099951583879",
+        "catalogProductId": "UP0082-PPSA16105_00-0460099951583879",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 33,
+          "bronze": 8,
+          "silver": 21,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008183",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 11,
+      "max": 11,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/152014"
+      }
+    },
+    "platinumHours": {
+      "min": 15,
+      "max": null,
+      "source": {
+        "url": "https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/",
+        "checkedAt": "2026-11-26"
+      }
+    },
+    "platinumDifficulty": "2/10",
+    "rating": {
+      "score": 73,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/life-is-strange-double-exposure/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "以平行時間線調查命案與對話抉擇為主，適合偏重單人敘事的玩家。可朝白金收集目標遊玩，須預留兩輪時間。",
+      "risks": [
+        "白金攻略要求兩輪；攝影收集與章節重玩增加成本"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008183",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "url": "https://www.powerpyx.com/life-is-strange-double-exposure-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008183",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008183.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3015/ba7365d7ffa1559f80333addf7fa56e8d2068a3249ae1fc0.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "《奇異人生：雙重曝光》"
+    }
+  },
+  {
+    "gameId": "ss-DKJNkDy083w2W60H4WPD",
+    "upstreamId": "DKJNkDy083w2W60H4WPD",
+    "twConceptId": "10002100",
+    "nameZh": null,
+    "nameEn": "FINAL FANTASY XVI",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ACTION",
+      "ROLE_PLAYING_GAMES"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "HP0082-PPSA10666_00-FF16ASIA00000002",
+        "catalogProductId": "HP0082-PPSA10666_00-FF16ASIA00000002",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 50,
+          "bronze": 40,
+          "silver": 6,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap/",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10002100",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 38.5,
+      "max": 38.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/83152"
+      }
+    },
+    "platinumHours": {
+      "min": 70,
+      "max": 90,
+      "source": {
+        "url": "https://www.powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap/",
+        "checkedAt": "2026-11-26"
+      }
+    },
+    "platinumDifficulty": "3/10（自動迴避配件）–5/10（不使用配件）",
+    "rating": {
+      "score": 87,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/final-fantasy-xvi/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "圍繞召喚獸與復仇展開的單人奇幻故事，適合投入一段完整的敘事冒險。以主線畢業可控制額外完成成本。",
+      "risks": [
+        "白金需第二輪最高難度模式；攻略估計70–90小時"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10002100",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "url": "https://www.powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10002100",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10002100.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1404/RMELUDlp2uzJ3EmsVhzr00A6.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "FINAL FANTASY XVI"
+    }
+  },
+  {
+    "gameId": "ss-9QO5Td9DcVbmQmDtwvU7",
+    "upstreamId": "9QO5Td9DcVbmQmDtwvU7",
+    "twConceptId": "10008755",
+    "nameZh": "索尼克×夏特 世代重啟 PS4 & PS5",
+    "nameEn": "SONIC X SHADOW GENERATIONS PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP0177-PPSA17597_00-SONICXSHADOWGENE",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 41,
+          "bronze": 26,
+          "silver": 10,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/sonic-x-shadow-generations-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008755",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP0177-PPSA17597_00-SONICXSHADOWGENE",
+        "catalogProductId": "UP0177-PPSA17597_00-SONICXSHADOWGENE",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 41,
+          "bronze": 26,
+          "silver": 10,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/sonic-x-shadow-generations/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008755",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 6.5,
+      "max": 6.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/145004"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 80,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/sonic-x-shadow-generations/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "索尼克與夏特兩套高速動作冒險提供關卡式體驗。優先跑完主要路線，再按興趣挑戰技巧。",
+      "risks": [
+        "競速操作有學習門檻；全收集及白金要求未查證"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008755",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008755",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008755.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2308/1efd5c197776d8dd5d5c79261559cd5947b0d52fc23e1174.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "索尼克×夏特 世代重啟 PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-iSfBwy5eflDDaNhAXPSw",
+    "upstreamId": "iSfBwy5eflDDaNhAXPSw",
+    "twConceptId": "10008945",
+    "nameZh": null,
+    "nameEn": "A Little to the Left PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "PUZZLE",
+      "FAMILY",
+      "BRAIN_TRAINING"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP7076-PPSA17847_00-ALITTLETOTHELEFT",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 48,
+          "bronze": 36,
+          "silver": 8,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/a-little-to-the-left-v2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008945",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP7076-PPSA17847_00-ALITTLETOTHELEFT",
+        "catalogProductId": "UP7076-PPSA17847_00-ALITTLETOTHELEFT",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 48,
+          "bronze": 36,
+          "silver": 8,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/a-little-to-the-left/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008945",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 4,
+      "max": 4,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/93920"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 75,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/a-little-to-the-left/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "以生活物件的分類與整理構成短小謎題，提供提示和跳關選項。適合分段遊玩，把一般關卡當作畢業目標。",
+      "risks": [
+        "另有每日整理模式；不把每日任務列為必要目標"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008945",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008945",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008945.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1315/a3fb067df2661d37b9b68e7a9dbeb96f29bec879a354ad94.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "A Little to the Left PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-MgxTBVvjFVdVAl0e3gXk",
+    "upstreamId": "MgxTBVvjFVdVAl0e3gXk",
+    "twConceptId": "10009366",
+    "nameZh": null,
+    "nameEn": "A Quiet Place: The Road Ahead",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "HORROR"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP6853-PPSA19007_00-AQPBASEGAME00000",
+        "catalogProductId": "EP6853-PPSA19007_00-AQPBASEGAME00000",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 53,
+          "bronze": 38,
+          "silver": 13,
+          "gold": 1,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/a-quiet-place-the-road-ahead/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009366",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 8,
+      "max": 8,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/152334"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 67,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/a-quiet-place-the-road-ahead/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以末日生存故事為題材的單人恐怖冒險，符合單人體驗方向。是否優先取決於對恐怖題材的接受度。",
+      "risks": [
+        "恐怖與緊張氛圍；獎盃與難度未確認"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009366",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009366",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009366.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1308/370454545572b19855f64cee5ba39cf53ac1ae8cb818e04c.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "A Quiet Place: The Road Ahead"
+    }
+  },
+  {
+    "gameId": "ss-ZfL2J32gWXaLBbwsvs5X",
+    "upstreamId": "ZfL2J32gWXaLBbwsvs5X",
+    "twConceptId": "10009597",
+    "nameZh": null,
+    "nameEn": "Darkest Dungeon II PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP2619-PPSA19590_00-0191103846959805",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009597",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP2619-PPSA19590_00-0191103846959805",
+        "catalogProductId": "UP2619-PPSA19590_00-0191103846959805",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 55,
+          "bronze": 46,
+          "silver": 6,
+          "gold": 2,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/darkest-dungeon-2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009597",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 33,
+      "max": 33,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/85972"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 81,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/darkest-dungeon-ii/"
+      }
+    },
+    "evaluation": {
+      "rank": "C",
+      "goal": "主線",
+      "reason": "回合戰鬥結合隊伍壓力與關係管理，策略特色鮮明。Roguelike 旅程與失敗累積較容易拉長投入，暫列低優先。",
+      "risks": [
+        "官方描述反覆旅程及失敗累積進度"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009597",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009597",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009597.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2617/d79ce4d6d77ed2f2a7a453e02ff9eefbbfe6712b9fd4c077.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Darkest Dungeon II PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-frPoOMl4zjA7fetzbAgO",
+    "upstreamId": "frPoOMl4zjA7fetzbAgO",
+    "twConceptId": "10008790",
+    "nameZh": null,
+    "nameEn": "Expeditions: A MudRunner Game (PS4 & PS5)",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SIMULATION",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "EP4133-PPSA17422_00-SNOWRUNNEREXPEDI",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008790",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "EP4133-PPSA17422_00-SNOWRUNNEREXPEDI",
+        "catalogProductId": "EP4133-PPSA17422_00-SNOWRUNNEREXPEDI",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008790",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 42.5,
+      "max": 42.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/134564"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 77,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/expeditions-a-mudrunner-game/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以地形判讀、車輛工具和研究營地構成越野探索，可單人行動。適合喜歡物理駕駛與路線規劃時遊玩。",
+      "risks": [
+        "任務與基地經營可能持續投入；非短篇敘事"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008790",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008790",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008790.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1809/8fb813c0709d15b1efd22c39ca3ead0f4e132f2d9c291379.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Expeditions: A MudRunner Game (PS4 & PS5)"
+    }
+  },
+  {
+    "gameId": "ss-RdKP8fzh9wAJIiLylFRU",
+    "upstreamId": "RdKP8fzh9wAJIiLylFRU",
+    "twConceptId": "10004462",
+    "nameZh": "人中之龍８　PS4 & PS5",
+    "nameEn": "Like a Dragon: Infinite Wealth PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "JP0177-PPSA06433_00-LIKEADRAGON8000A",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004462",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "JP0177-PPSA06433_00-LIKEADRAGON8000A",
+        "catalogProductId": "JP0177-PPSA06433_00-LIKEADRAGON8000A",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004462",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 57,
+      "max": 57,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/113583"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 89,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/like-a-dragon-infinite-wealth/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "雙主角故事與可自訂職業的指令 RPG，適合重視人物與劇情的長篇體驗。先完成主線，娛樂設施按興趣選玩。",
+      "risks": [
+        "長篇RPG；角色培育與支線可增加時間"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004462",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10004462",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10004462.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0601/fef8c5edbb3ae871fd48faf7ff8534ca653a69d8a8f905b6.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "人中之龍８　PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-tyRoVULGDkjjGrC3fcPH",
+    "upstreamId": "tyRoVULGDkjjGrC3fcPH",
+    "twConceptId": "235235",
+    "nameZh": null,
+    "nameEn": "Resident Evil Village PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "HORROR",
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "HP0102-PPSA01559_00-VILLAGEFULLGAMEX",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 50,
+          "bronze": 40,
+          "silver": 6,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/235235",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "HP0102-PPSA01559_00-VILLAGEFULLGAMEX",
+        "catalogProductId": "HP0102-PPSA01559_00-VILLAGEFULLGAMEX",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 50,
+          "bronze": 40,
+          "silver": 6,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/235235",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 10,
+      "max": 10,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/80038"
+      }
+    },
+    "platinumHours": {
+      "min": 20,
+      "max": 25,
+      "source": {
+        "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+        "checkedAt": "2026-11-26"
+      }
+    },
+    "platinumDifficulty": "7/10；傭兵模式需技巧",
+    "rating": {
+      "score": 84,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/resident-evil-village/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "主線",
+      "reason": "以伊森為主角延續生存恐怖故事，適合集中體驗主線。白金有傭兵模式與多輪要求，建議先把故事玩完。",
+      "risks": [
+        "恐怖題材；白金攻略難度7/10且至少3輪"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/235235",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "url": "https://www.powerpyx.com/resident-evil-8-village-trophy-guide-roadmap/",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/235235",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/235235.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Resident Evil Village PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-tN8pqXpJwjw4sGDVipao",
+    "upstreamId": "tN8pqXpJwjw4sGDVipao",
+    "twConceptId": "10011105",
+    "nameZh": "8號出口",
+    "nameEn": "The Exit 8",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "HORROR"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "JP0122-PPSA23276_00-0712963327800940",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10011105",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "JP0122-PPSA23276_00-0712963327800940",
+        "catalogProductId": "JP0122-PPSA23276_00-0712963327800940",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 4,
+          "bronze": 0,
+          "silver": 0,
+          "gold": 4,
+          "platinum": 0,
+          "source": {
+            "url": "https://www.truetrophies.com/game/the-exit-8/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": false,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10011105",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 0.5,
+      "max": 0.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/141499"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": null,
+    "evaluation": {
+      "rank": "S",
+      "goal": "全獎盃",
+      "reason": "觀察地下通道的異常並決定前進或折返，規則集中、篇幅短。適合作為下一款可快速完成的單人觀察體驗。",
+      "risks": [
+        "含不安與恐怖氛圍；已核實PS5版沒有白金盃"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10011105",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10011105",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10011105.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2505/34cb80e4a067cf254409922546821d594f431178fb715c92.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "8號出口"
+    }
+  },
+  {
+    "gameId": "ss-FdM8nevwWTznyODhIVwH",
+    "upstreamId": "FdM8nevwWTznyODhIVwH",
+    "twConceptId": "10007859",
+    "nameZh": null,
+    "nameEn": "Cat Quest III",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES",
+      "FAMILY",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "EP7579-PPSA15064_00-CQ300000000PS5EU",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 31,
+          "bronze": 6,
+          "silver": 20,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/cat-quest-iii-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10007859",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "EP7579-PPSA15064_00-CQ300000000PS5EU",
+        "catalogProductId": "EP7579-PPSA15064_00-CQ300000000PS5EU",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 31,
+          "bronze": 6,
+          "silver": 20,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/cat-quest-iii/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10007859",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 6,
+      "max": 6,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/129264"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 80,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/cat-quest-iii/"
+      }
+    },
+    "evaluation": {
+      "rank": "S",
+      "goal": "白金",
+      "reason": "海盜貓題材的動作 RPG，結合航海、地城與尋寶，支援單人遊玩。以主線和喜歡的支線畢業，適合有限時間。",
+      "risks": [
+        "寶藏收集可拉長遊玩；白金條件未確認"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10007859",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10007859",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10007859.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3013/02b1e714b0f267f2ef62fc7f0ef934de009483f4e9335713.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Cat Quest III"
+    }
+  },
+  {
+    "gameId": "ss-jfrIWkLZ90mKdRWGiOrF",
+    "upstreamId": "jfrIWkLZ90mKdRWGiOrF",
+    "twConceptId": "229066",
+    "nameZh": null,
+    "nameEn": "Granblue Fantasy: Relink Standard Edition",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES",
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "HP0177-PPSA08680_00-GBRELINKDGTLSTD1",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 54,
+          "bronze": 44,
+          "silver": 7,
+          "gold": 2,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/granblue-fantasy-relink-v2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/229066",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "HP0177-PPSA08680_00-GBRELINKDGTLSTD1",
+        "catalogProductId": "HP0177-PPSA08680_00-GBRELINKDGTLSTD1",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 54,
+          "bronze": 44,
+          "silver": 7,
+          "gold": 2,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/granblue-fantasy-relink/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/229066",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 15.5,
+      "max": 15.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/66500"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 80,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/granblue-fantasy-relink"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "四人隊伍動作 RPG，提供輔助操作模式與世界觀記事。先完成劇情，素材任務與角色強化留待有興趣再投入。",
+      "risks": [
+        "任務模式支援線上合作並提供稀有素材；避免為刷取延長畢業"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/229066",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/229066",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/229066.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0106/1d4e7b816927506b5ccdefb10b365312cc1a69c88335a8b0.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Granblue Fantasy: Relink Standard Edition"
+    }
+  },
+  {
+    "gameId": "ss-IYk84inDBvmg2pwQdsuK",
+    "upstreamId": "IYk84inDBvmg2pwQdsuK",
+    "twConceptId": "10009610",
+    "nameZh": "雲霄飛車之星 2",
+    "nameEn": "Planet Coaster 2",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SIMULATION"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP2377-PPSA19633_00-PLANETCOASTER200",
+        "catalogProductId": "EP2377-PPSA19633_00-PLANETCOASTER200",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009610",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 23,
+      "max": 23,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/153454"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 76,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/planet-coaster-2/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以自訂雲霄飛車、水上設施和樂園管理為主，創作空間大。適合經營興趣明確時選擇，設定自己的建造目標。",
+      "risks": [
+        "開放式經營沒有固定畢業點；細節設計耗時"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009610",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009610",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009610.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1008/a4d3a40bfe7deff9eb203626bfe31f052f2dd6b9ff96cc74.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "雲霄飛車之星 2"
+    }
+  },
+  {
+    "gameId": "ss-7kQsHwIWJdu6h4RuFOpM",
+    "upstreamId": "7kQsHwIWJdu6h4RuFOpM",
+    "twConceptId": "10004116",
+    "nameZh": null,
+    "nameEn": "Wo Long: Fallen Dynasty (PS4 & PS5)",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES",
+      "ADVENTURE",
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "HP0106-PPSA08774_00-WOLONG0000000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004116",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "HP0106-PPSA08774_00-WOLONG0000000000",
+        "catalogProductId": "HP0106-PPSA08774_00-WOLONG0000000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004116",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 25.5,
+      "max": 25.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/109264"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 80,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/wo-long-fallen-dynasty"
+      }
+    },
+    "evaluation": {
+      "rank": "C",
+      "goal": "主線",
+      "reason": "以三國妖魔世界與武術劍戟戰鬥為特色，動作辨識度高。依降低高挑戰反覆戰鬥的偏好，先列低優先。",
+      "risks": [
+        "官方定位高挑戰動作；須願意練習戰鬥"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004116",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10004116",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10004116.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2609/lgPM04qlLofxYamtlfMfqkHZ.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Wo Long: Fallen Dynasty (PS4 & PS5)"
+    }
+  },
+  {
+    "gameId": "ss-K8VcjoCR1Tal14FIXYsi",
+    "upstreamId": "K8VcjoCR1Tal14FIXYsi",
+    "twConceptId": "10014385",
+    "nameZh": null,
+    "nameEn": "Skate Story",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SPORTS"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP3643-PPSA28801_00-0903988917779220",
+        "catalogProductId": "UP3643-PPSA28801_00-0903988917779220",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 27,
+          "bronze": 6,
+          "silver": 14,
+          "gold": 6,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/skate-story/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10014385",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 6,
+      "max": 6,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/109111"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 85,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/skate-story/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以滑板穿越超現實地獄，音樂與玻璃角色構成獨特體驗。適合對動作操控和滑板技巧感興趣時遊玩。",
+      "risks": [
+        "官方強調精通動作與滑板試煉；技巧學習成本"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10014385",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10014385",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10014385.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1915/1f1b60a5a79b1076b4249123cf75feee2fdf8e4df1726e84.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Skate Story"
+    }
+  },
+  {
+    "gameId": "ss-lDpUHsAcqLRNfPemB0sV",
+    "upstreamId": "lDpUHsAcqLRNfPemB0sV",
+    "twConceptId": "10012483",
+    "nameZh": null,
+    "nameEn": "Abiotic Factor",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP3495-PPSA26012_00-0867930864684348",
+        "catalogProductId": "EP3495-PPSA26012_00-0867930864684348",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10012483",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 56.5,
+      "max": 56.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/149774"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 88,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/abiotic-factor/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "休閒",
+      "reason": "以地下研究設施為舞台的生存建造，科學工具與角色專長有特色。較適合想投入生存循環時選擇。",
+      "risks": [
+        "官方主打多人、生存與資源搜集；單人平衡未評測"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10012483",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10012483",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10012483.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1023/857950e3d659c14025f00df668cc9d853edaa3e0ae592e94.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Abiotic Factor"
+    }
+  },
+  {
+    "gameId": "ss-FbJ4tEzDF4py31vAEgEv",
+    "upstreamId": "FbJ4tEzDF4py31vAEgEv",
+    "twConceptId": "10006098",
+    "nameZh": null,
+    "nameEn": "Banishers: Ghosts of New Eden",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP4133-PPSA10053_00-NEWWORLDGAME0000",
+        "catalogProductId": "EP4133-PPSA10053_00-NEWWORLDGAME0000",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 43,
+          "bronze": 30,
+          "silver": 9,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/banishers-ghosts-of-new-eden/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10006098",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 23,
+      "max": 23,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/118229"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 78,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/banishers-ghosts-of-new-eden/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "驅靈戀人以武力與靈力破解鬧鬼事件，道德選擇影響故事。符合重視單人敘事與具體世界觀的需求。",
+      "risks": [
+        "抉擇影響劇情；白金所需分支與重玩未確認"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10006098",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10006098",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10006098.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0615/c8a66a099314ba3d504d226c570e100cd7c6eaf8e936fbdf.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Banishers: Ghosts of New Eden"
+    }
+  },
+  {
+    "gameId": "ss-r00dJXAm93koJQKADwvb",
+    "upstreamId": "r00dJXAm93koJQKADwvb",
+    "twConceptId": "10009025",
+    "nameZh": "《動物園之星》主機版",
+    "nameEn": "Planet Zoo",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SIMULATION",
+      "FAMILY",
+      "CASUAL"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP2377-PPSA18026_00-PLANETZOOOOOOOOO",
+        "catalogProductId": "EP2377-PPSA18026_00-PLANETZOOOOOOOOO",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 39,
+          "bronze": 26,
+          "silver": 8,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/planet-zoo/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009025",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 35.5,
+      "max": 35.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/68032"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 81,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/planet-zoo"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以動物福利、棲地設計和經營決策為核心，可選生涯或沙盒模式。適合對建造有興趣時設定一個園區目標。",
+      "risks": [
+        "建造與管理可長期延伸；不以全完成為目標"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009025",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009025",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009025.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1212/3e9face5939ff74cb52fc44508cd42d0481d85f3612a09e9.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "《動物園之星》主機版"
+    }
+  },
+  {
+    "gameId": "ss-GMp6QNqNEx9HUXKzfZoD",
+    "upstreamId": "GMp6QNqNEx9HUXKzfZoD",
+    "twConceptId": "234567",
+    "nameZh": "《電馭叛客 2077》",
+    "nameEn": "Cyberpunk 2077",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "HP4497-PPSA04028_00-00000000000000N5",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/234567",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "HP4497-PPSA04028_00-00000000000000N5",
+        "catalogProductId": "HP4497-PPSA04028_00-00000000000000N5",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/234567",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 26,
+      "max": 26,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/2127"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 86,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/cyberpunk-2077/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "夜城的傭兵冒險結合角色打造、委託與劇情抉擇，適合長篇單人探索。先完成主線，再挑選感興趣的委託。",
+      "risks": [
+        "PS4與PS5內容／更新差異需另查；本次不將不同平台獎盃合併"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/234567",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/234567",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/234567.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3015/JwNB4XKmDJLSN4Bq9lpwHL6N.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "《電馭叛客 2077》"
+    }
+  },
+  {
+    "gameId": "ss-zEOmU0fpZsNkeASOWMRc",
+    "upstreamId": "zEOmU0fpZsNkeASOWMRc",
+    "twConceptId": "10003484",
+    "nameZh": "《百英雄傳》Eiyuden Chronicle: Hundred Heroes",
+    "nameEn": "Eiyuden Chronicle: Hundred Heroes",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP4040-PPSA04721_00-EIYUDENHEROESPS5",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 56,
+          "bronze": 48,
+          "silver": 5,
+          "gold": 2,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/eiyuden-chronicle-hundred-heroes-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10003484",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP4040-PPSA04721_00-EIYUDENHEROESPS5",
+        "catalogProductId": "UP4040-PPSA04721_00-EIYUDENHEROESPS5",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10003484",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 48,
+      "max": 48,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/82916"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 79,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/eiyuden-chronicle-hundred-heroes/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以戰爭、同伴與符文魔法展開的 JRPG，適合喜歡群像故事的玩家。先以主線衡量投入，角色收集另行取捨。",
+      "risks": [
+        "角色扮演長篇；全角色與白金要求未核實"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10003484",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10003484",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10003484.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0610/1b4f6b085563ec616bb1e44709213c963a5d2b6d191d463a.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "《百英雄傳》Eiyuden Chronicle: Hundred Heroes"
+    }
+  },
+  {
+    "gameId": "ss-lYgXJRjXS4oPOFR0AX1f",
+    "upstreamId": "lYgXJRjXS4oPOFR0AX1f",
+    "twConceptId": "10009325",
+    "nameZh": null,
+    "nameEn": "Five Nights at Freddy's: Help Wanted 2",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "HORROR"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP0638-PPSA18886_00-FNAFHELPWANTEDP2",
+        "catalogProductId": "UP0638-PPSA18886_00-FNAFHELPWANTEDP2",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009325",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 8.5,
+      "max": 8.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/129268"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": null,
+    "evaluation": {
+      "rank": null,
+      "goal": null,
+      "reason": "商店仍以 VR 恐怖小遊戲描述本作，本次未確認台帳版本的非 VR 模式與必要設備，暫不給推薦等級。",
+      "risks": [
+        "VR／非VR版本與設備需求待確認"
+      ],
+      "confidence": "unknown",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009325",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009325",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009325.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7d95ddedbe9879608de4724ff5ddf1daccf01a23a8b9bf59.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Five Nights at Freddy's: Help Wanted 2"
+    }
+  },
+  {
+    "gameId": "ss-U4JnhHCkF480rvOFInBU",
+    "upstreamId": "U4JnhHCkF480rvOFInBU",
+    "twConceptId": "10009923",
+    "nameZh": null,
+    "nameEn": "Another Crab’s Treasure",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP7131-PPSA20422_00-ANOTHERCRABS4US5",
+        "catalogProductId": "UP7131-PPSA20422_00-ANOTHERCRABS4US5",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 33,
+          "bronze": 20,
+          "silver": 6,
+          "gold": 6,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/another-crabs-treasure/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009923",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 14,
+      "max": 14,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/107701"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 78,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/another-crabs-treasure/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "以寄居蟹換殼和垃圾裝備構成海底動作冒險，提供可調整的輔助選項。建議按自身耐性開啟輔助，以故事畢業。",
+      "risks": [
+        "動作戰鬥；輔助選項對獎盃影響未確認"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10009923",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009923",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10009923.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0301/30aac0dabbd3e8a390d7b5a75bc558e7f593e09765034080.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Another Crab’s Treasure"
+    }
+  },
+  {
+    "gameId": "ss-TUWU3BjxcTYvWmQv6Yzc",
+    "upstreamId": "TUWU3BjxcTYvWmQv6Yzc",
+    "twConceptId": "10002689",
+    "nameZh": null,
+    "nameEn": "Atlas Fallen: Reign of Sand",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES",
+      "ADVENTURE",
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "EP4133-PPSA03388_00-AFREIGNOFSANDEE0",
+        "catalogProductId": "EP4133-PPSA03388_00-AFREIGNOFSANDEE0",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 37,
+          "bronze": 22,
+          "silver": 10,
+          "gold": 4,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/atlas-fallen/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10002689",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 11,
+      "max": 11,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/112665"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 64,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/atlas-fallen/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "沙土滑行與武器變化構成動作探索，可單機或雙人合作。適合想玩奇幻戰鬥時選擇主線目標。",
+      "risks": [
+        "版本為Reign of Sand；攻略與獎盃是否沿用舊版待確認"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10002689",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10002689",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10002689.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1616/47404eac92226b1142c89e3098898a2c816ed246591bd674.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Atlas Fallen: Reign of Sand"
+    }
+  },
+  {
+    "gameId": "ss-Ijvc9yFav8MTeIlk566o",
+    "upstreamId": "Ijvc9yFav8MTeIlk566o",
+    "twConceptId": "10005843",
+    "nameZh": null,
+    "nameEn": "A Space for the Unbound",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": "JP0211-CUSA35793_00-3635252122584103",
+        "catalogProductId": "JP0211-CUSA35793_00-3635252122584103",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 26,
+          "bronze": 7,
+          "silver": 12,
+          "gold": 6,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/a-space-for-the-unbound-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10005843",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 10,
+      "max": 10,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/78881"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 85,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/a-space-for-the-unbound/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "在九零年代印尼小鎮探索與交談，運用能力進入他人內心。以青春群像和地域特色為主，符合單人體驗方向。",
+      "risks": [
+        "台帳目錄僅確認PS4；不把商店預設PS5商品視為訂閱包含"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10005843",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10005843",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10005843.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1606/oXtps1uT1x0cAMxa6r1FtkhQ.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "A Space for the Unbound"
+    }
+  },
+  {
+    "gameId": "ss-owO3Pu498fXq2TksHX94",
+    "upstreamId": "owO3Pu498fXq2TksHX94",
+    "twConceptId": "10000494",
+    "nameZh": null,
+    "nameEn": "Biped",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE",
+      "UNIQUE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "EP6008-PPSA24591_00-0184863662672381",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10000494",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "EP6008-PPSA24591_00-0184863662672381",
+        "catalogProductId": "EP6008-PPSA24591_00-0184863662672381",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10000494",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 3,
+      "max": 3,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/76246"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 70,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/biped/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以兩支搖桿控制雙足機器人解謎，合作操作有鮮明特色。官方強調雙人配合，單人優先的情境可稍後再玩。",
+      "risks": [
+        "可單人但商店強調雙人合作樂趣"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10000494",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10000494",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10000494.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202003/0308/8rk8asEtN0Xgohicy4XPYxHs.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Biped"
+    }
+  },
+  {
+    "gameId": "ss-yMcAdFQYyyeGWX1pUBJL",
+    "upstreamId": "yMcAdFQYyyeGWX1pUBJL",
+    "twConceptId": "234471",
+    "nameZh": null,
+    "nameEn": "Coffee Talk",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE",
+      "ADVENTURE",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "JP0211-PPSA07055_00-0842489021226335",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 24,
+          "bronze": 9,
+          "silver": 7,
+          "gold": 7,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/coffee-talk-v2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/234471",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "JP0211-PPSA07055_00-0842489021226335",
+        "catalogProductId": "JP0211-PPSA07055_00-0842489021226335",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 24,
+          "bronze": 9,
+          "silver": 7,
+          "gold": 7,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/coffee-talk/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/234471",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 4.5,
+      "max": 4.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/73219"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 76,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/coffee-talk/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "透過調製飲品傾聽奇幻西雅圖居民的煩惱，以閱讀與對話為主。適合分段遊玩的單人故事，先走完故事即可。",
+      "risks": [
+        "以文字閱讀為主；配方與全收集獎盃待查"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/234471",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/234471",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/234471.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/img/rnd/202104/0510/kqFKzYXgYrUH0Ytg9ehjazY9.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Coffee Talk"
+    }
+  },
+  {
+    "gameId": "ss-SNehmvdNs60LlOb9TRPY",
+    "upstreamId": "SNehmvdNs60LlOb9TRPY",
+    "twConceptId": "10004780",
+    "nameZh": null,
+    "nameEn": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "CASUAL",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "JP0211-PPSA07051_00-5345491085292269",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 53,
+          "bronze": 42,
+          "silver": 8,
+          "gold": 2,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/coffee-talk-episode-2-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004780",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      },
+      {
+        "platform": "PS5",
+        "productId": "JP0211-PPSA07051_00-5345491085292269",
+        "catalogProductId": "JP0211-PPSA07051_00-5345491085292269",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 53,
+          "bronze": 42,
+          "silver": 8,
+          "gold": 2,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/coffee-talk-episode-2/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004780",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 7,
+      "max": 7,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/106984"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 79,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/coffee-talk-episode-2-hibiscus-and-butterfly/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "延續深夜咖啡館的故事，以調飲品和聽顧客談話推進。若喜歡單人敘事與低壓力操作，可優先體驗主線。",
+      "risks": [
+        "閱讀取向；是否需要前作背景可先評估"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004780",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10004780",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10004780.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2802/7e8081b6fe6c07c724b389099ffa21072f2ef814c890190a.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Coffee Talk Episode 2: Hibiscus & Butterfly"
+    }
+  },
+  {
+    "gameId": "ss-8UeZViuUKcWSXf1nnefe",
+    "upstreamId": "8UeZViuUKcWSXf1nnefe",
+    "twConceptId": "10000598",
+    "nameZh": "狗狗",
+    "nameEn": "PHOGS!",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "PUZZLE",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": "EP8936-CUSA19479_00-PHOGS00000000001",
+        "catalogProductId": "EP8936-CUSA19479_00-PHOGS00000000001",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10000598",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 8,
+      "max": 8,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/85738"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 78,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/phogs!"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "控制連在一起的雙頭狗穿越食物、睡眠與遊戲主題世界解謎。支援單人與合作，適合短時段休閒。",
+      "risks": [
+        "兩端協調操控；白金與全部謎題耗時待查"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10000598",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10000598",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10000598.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2419/xSvjc9qBWNzbckjXs29whUlE.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "狗狗"
+    }
+  },
+  {
+    "gameId": "ss-3OkSuxi59uSlLVzrIi0c",
+    "upstreamId": "3OkSuxi59uSlLVzrIi0c",
+    "twConceptId": "10004982",
+    "nameZh": null,
+    "nameEn": "WRC Generations – The FIA WRC Official Game",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "SIMULATION",
+      "RACING"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "EP6665-PPSA07579_00-WRCG000000000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004982",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "EP6665-PPSA07579_00-WRCG000000000000",
+        "catalogProductId": "EP6665-PPSA07579_00-WRCG000000000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004982",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 15,
+      "max": 15,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/107930"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 74,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/wrc-generations/"
+      }
+    },
+    "evaluation": {
+      "rank": "C",
+      "goal": "白金",
+      "reason": "以真實拉力賽段、混合動力與車隊管理為主，模擬深度明確。對單人故事優先的需求較不直接，留給賽車興趣。",
+      "risks": [
+        "駕駛技巧與重複賽段；線上聯賽為另一種長期投入"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10004982",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10004982",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10004982.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1214/jrPHWEkxs0V0P19tJjgu2Li8.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "WRC Generations – The FIA WRC Official Game"
+    }
+  },
+  {
+    "gameId": "ss-HqTAxLZhz91JbucaFN1t",
+    "upstreamId": "HqTAxLZhz91JbucaFN1t",
+    "twConceptId": "10001119",
+    "nameZh": "紀元：變異 收藏版 PS4 & PS5",
+    "nameEn": "ANNO: Mutationem Collector's Edition PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS5",
+        "productId": "UP6305-PPSA05925_00-7779893283764094",
+        "catalogProductId": "UP6305-PPSA05925_00-7779893283764094",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10001119",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP6305-PPSA05925_00-7779893283764094",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 36,
+          "bronze": 18,
+          "silver": 14,
+          "gold": 3,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/anno-mutationem-ps4/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10001119",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 11.5,
+      "max": 11.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/81835"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 71,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/anno-mutationem/"
+      }
+    },
+    "evaluation": {
+      "rank": "A",
+      "goal": "白金",
+      "reason": "結合2D動作戰鬥與3D探索，以近未來都市的個人任務推進故事。適合想體驗視覺特色鮮明的單人動作冒險。",
+      "risks": [
+        "台帳收藏版以完整相同product ID確認；不以名稱跨版本合併"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10001119",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10001119",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10001119.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2106/bP4skIYeUsIYi2on7BwV06Lr.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "紀元：變異 收藏版 PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-8A0w3BPClOtTvuW5vlvU",
+    "upstreamId": "8A0w3BPClOtTvuW5vlvU",
+    "twConceptId": "10016223",
+    "nameZh": null,
+    "nameEn": "Psi-Ops: The Mindgate Conspiracy",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP1018-PPSA31935_00-PS2EMU00PSIOPSMC",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10016223",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP1018-PPSA31935_00-PS2EMU00PSIOPSMC",
+        "catalogProductId": "UP1018-PPSA31935_00-PS2EMU00PSIOPSMC",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10016223",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 11,
+      "max": 11,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/7368"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 84,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/psi-ops-the-mindgate-conspiracy/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以念力、控制與控火等超能力搭配戰鬥解謎，玩法組合有特色。適合想體驗經典單人動作關卡時選擇。",
+      "risks": [
+        "經典版本的操作與畫面需適應；白金未查"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10016223",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10016223",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10016223.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0321/23cd398fe61319e659bc1b53789193ba0f2b3b4bbdd548b5.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Psi-Ops: The Mindgate Conspiracy"
+    }
+  },
+  {
+    "gameId": "ss-1fnpoRMCpgI683bOFYFk",
+    "upstreamId": "1fnpoRMCpgI683bOFYFk",
+    "twConceptId": "10017591",
+    "nameZh": null,
+    "nameEn": "Gitaroo-Man",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "MUSIC/RHYTHM"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "JP0106-PPSA34548_00-GITAROOMAN000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10017591",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "JP0106-PPSA34548_00-GITAROOMAN000000",
+        "catalogProductId": "JP0106-PPSA34548_00-GITAROOMAN000000",
+        "trophyGroupId": null,
+        "baseTrophies": {
+          "total": 21,
+          "bronze": 2,
+          "silver": 10,
+          "gold": 8,
+          "platinum": 1,
+          "source": {
+            "url": "https://www.truetrophies.com/game/gitaroo-man/trophies",
+            "checkedAt": "2026-11-26"
+          }
+        },
+        "hasPlatinum": true,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10017591",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": "公開本體清單；台灣區域群組未核實"
+      }
+    ],
+    "mainHours": {
+      "min": 3,
+      "max": 3,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/3939"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 82,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/gitaroo-man/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以節奏按鍵與類比操作桿演奏推進成長故事，視覺與音樂題材突出。若對節奏操作有興趣，可先體驗故事路線。",
+      "risks": [
+        "經典移植；節奏精準度有學習成本；獎盃未查"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10017591",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10017591",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10017591.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2704/a22187bd7be9ca54c7e9181a650b8324448366d1c7d489ba.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Gitaroo-Man"
+    }
+  },
+  {
+    "gameId": "ss-JdqWCqHCfUXMFcjy65dN",
+    "upstreamId": "JdqWCqHCfUXMFcjy65dN",
+    "twConceptId": "10015861",
+    "nameZh": null,
+    "nameEn": "RIDGE RACER PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "RACING"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP0700-PPSA31372_00-SCUS943000000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10015861",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP0700-PPSA31372_00-SCUS943000000000",
+        "catalogProductId": "UP0700-PPSA31372_00-SCUS943000000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10015861",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 1,
+      "max": 1,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/7804"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 79,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/ridge-racer-1995/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以甩尾與競速模式體驗經典街機賽車，適合短時段換口味。依單人故事優先的偏好，無須強求全挑戰。",
+      "risks": [
+        "原版移植，並非新作；高階賽事技巧成本"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10015861",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10015861",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10015861.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1908/6ce298e9b23333630dfbc1c1c647f2f8335ed24d08a4a544.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "RIDGE RACER PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-cgRkWl3f9UpSgAtFMOl2",
+    "upstreamId": "cgRkWl3f9UpSgAtFMOl2",
+    "twConceptId": "10016210",
+    "nameZh": null,
+    "nameEn": "SOULCALIBUR III PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "FIGHTING"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP0700-PPSA31911_00-SLUS212160000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10016210",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP0700-PPSA31911_00-SLUS212160000000",
+        "catalogProductId": "UP0700-PPSA31911_00-SLUS212160000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10016210",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 2.5,
+      "max": 2.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/8823"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 86,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/soulcalibur-iii"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "武器格鬥結合角色故事與劍之編年史模式，單人內容有明確特色。適合喜歡格鬥時選幾名角色體驗。",
+      "risks": [
+        "格鬥技巧與隱藏角色收集成本；經典移植"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10016210",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10016210",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10016210.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1103/e9016c9abb439a38f1e4877024988a3ec3074b0829f73e52.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "SOULCALIBUR III PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-Wwcx9CMXIKf9nKjjnEpR",
+    "upstreamId": "Wwcx9CMXIKf9nKjjnEpR",
+    "twConceptId": "10013576",
+    "nameZh": null,
+    "nameEn": "Deus Ex: The Conspiracy PS4 & PS5",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ROLE_PLAYING_GAMES"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP8490-PPSA27664_00-0241577075525214",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10013576",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP8490-PPSA27664_00-0241577075525214",
+        "catalogProductId": "UP8490-PPSA27664_00-0241577075525214",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10013576",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 23,
+      "max": 23,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/2486"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 90,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/deus-ex/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以2052年的陰謀與社會危機為故事背景，提供經典單人題材。想補玩經典時可考慮，不因歷史名聲直接給高分。",
+      "risks": [
+        "PS2模擬版本；操作與介面需適應；獎盃未查"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10013576",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10013576",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10013576.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1721/5d6b215e678ac93bf43f9d886a9b66e765a9effcc5685455.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Deus Ex: The Conspiracy PS4 & PS5"
+    }
+  },
+  {
+    "gameId": "ss-te7eQXF4Y9eLedUravd8",
+    "upstreamId": "te7eQXF4Y9eLedUravd8",
+    "twConceptId": "10008667",
+    "nameZh": "神秘島",
+    "nameEn": "Myst (PS1)",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "PUZZLE",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP0922-PPSA17121_00-SCUS946020000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008667",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP0922-PPSA17121_00-SCUS946020000000",
+        "catalogProductId": "UP0922-PPSA17121_00-SCUS946020000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008667",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 6,
+      "max": 6,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/6308"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 78,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/myst/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以神秘島上的書籍與環境謎題推進故事，適合耐心觀察的單人玩家。先確認喜歡原始點擊式玩法，再決定投入。",
+      "risks": [
+        "1993原版風格，並非現代重製；謎題解法可能不直觀"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008667",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008667",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008667.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2804/68e6f7936b2cc264679c9761bb696446aa3490a34d85e570.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "神秘島"
+    }
+  },
+  {
+    "gameId": "ss-L3Imh6GnXrTcWI34eUwi",
+    "upstreamId": "L3Imh6GnXrTcWI34eUwi",
+    "twConceptId": "10008668",
+    "nameZh": "烈文",
+    "nameEn": "Riven (PS1)",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "PUZZLE",
+      "ADVENTURE"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP0922-PPSA17122_00-SLUS005350000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008668",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP0922-PPSA17122_00-SLUS005350000000",
+        "catalogProductId": "UP0922-PPSA17122_00-SLUS005350000000",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008668",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 9.5,
+      "max": 9.5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/7853"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 83,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/riven-the-sequel-to-myst/"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "在神秘島嶼探索並解開複雜謎題，適合喜歡觀察環境與推理的玩家。這是原始點擊式版本，按謎題興趣選擇。",
+      "risks": [
+        "不是現代重製版；謎題可能需要較多思考時間"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10008668",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10008668",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10008668.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1222/3009c2c9ada033b1408b00176444dd1bd8c78a0c09a17523.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "烈文"
+    }
+  },
+  {
+    "gameId": "ss-kczlaTz1eRoyE2brqFYD",
+    "upstreamId": "kczlaTz1eRoyE2brqFYD",
+    "twConceptId": "10007635",
+    "nameZh": null,
+    "nameEn": "Indiana Jones and the Staff of Kings",
+    "nameSource": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "genres": [
+      "ADVENTURE",
+      "ACTION"
+    ],
+    "versions": [
+      {
+        "platform": "PS4",
+        "productId": null,
+        "catalogProductId": "UP1082-PPSA14388_00-0064394372965033",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10007635",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      },
+      {
+        "platform": "PS5",
+        "productId": "UP1082-PPSA14388_00-0064394372965033",
+        "catalogProductId": "UP1082-PPSA14388_00-0064394372965033",
+        "trophyGroupId": null,
+        "baseTrophies": null,
+        "hasPlatinum": null,
+        "source": {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10007635",
+          "checkedAt": "2026-11-26T08:42:24.360Z",
+          "status": "ok"
+        },
+        "trophyScope": null
+      }
+    ],
+    "mainHours": {
+      "min": 5,
+      "max": 5,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://howlongtobeat.com/game/13939"
+      }
+    },
+    "platinumHours": null,
+    "platinumDifficulty": null,
+    "rating": {
+      "score": 55,
+      "source": {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok",
+        "originalUrl": "https://www.metacritic.com/game/indiana-jones-and-the-staff-of-kings"
+      }
+    },
+    "evaluation": {
+      "rank": "B",
+      "goal": "白金",
+      "reason": "以鞭子、環境機關與冒險故事構成經典動作解謎。適合想遊玩一段關卡冒險時體驗主線。",
+      "risks": [
+        "PS2移植，部分原版功能可能不同；獎盃未查"
+      ],
+      "confidence": "medium",
+      "evaluatedAt": "2026-11-26",
+      "promptVersion": "EVALUATION-v2",
+      "sources": [
+        {
+          "url": "https://store.playstation.com/zh-hant-tw/concept/10007635",
+          "checkedAt": "2026-11-26"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "url": "https://www.subsort.gg/api/games",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      },
+      {
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10007635",
+        "checkedAt": "2026-11-26T08:42:24.360Z",
+        "status": "ok"
+      }
+    ],
+    "officialDescriptionAvailable": true,
+    "cover": {
+      "path": "covers/10007635.jpg",
+      "source": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2415/20a4ac05ee2de01aeada79687bb5f344ad0f1aeea72152c8.png",
+        "checkedAt": "2026-11-26"
+      },
+      "alt": "Indiana Jones and the Staff of Kings"
+    }
+  }
+]

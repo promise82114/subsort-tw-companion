@@ -1,0 +1,673 @@
+[
+  {
+    "gameId": "ss-VTo8TgUfFmbtjle0Kfyu",
+    "upstreamId": "VTo8TgUfFmbtjle0Kfyu",
+    "twConceptId": "10008409",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-lqUBkXaZ4RuIoyLTRQ5h",
+    "upstreamId": "lqUBkXaZ4RuIoyLTRQ5h",
+    "twConceptId": "233032",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-hnL1VJONfevRXhtwlc6F",
+    "upstreamId": "hnL1VJONfevRXhtwlc6F",
+    "twConceptId": "10011854",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-6LJsVe0NL8S1hn2455gK",
+    "upstreamId": "6LJsVe0NL8S1hn2455gK",
+    "twConceptId": "10009612",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-mby1GrAF0TOPZAPvBW6J",
+    "upstreamId": "mby1GrAF0TOPZAPvBW6J",
+    "twConceptId": "227410",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-6zViPHzxhU0XLQLW0WGG",
+    "upstreamId": "6zViPHzxhU0XLQLW0WGG",
+    "twConceptId": "10008183",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-DKJNkDy083w2W60H4WPD",
+    "upstreamId": "DKJNkDy083w2W60H4WPD",
+    "twConceptId": "10002100",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-9QO5Td9DcVbmQmDtwvU7",
+    "upstreamId": "9QO5Td9DcVbmQmDtwvU7",
+    "twConceptId": "10008755",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-iSfBwy5eflDDaNhAXPSw",
+    "upstreamId": "iSfBwy5eflDDaNhAXPSw",
+    "twConceptId": "10008945",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-MgxTBVvjFVdVAl0e3gXk",
+    "upstreamId": "MgxTBVvjFVdVAl0e3gXk",
+    "twConceptId": "10009366",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-ZfL2J32gWXaLBbwsvs5X",
+    "upstreamId": "ZfL2J32gWXaLBbwsvs5X",
+    "twConceptId": "10009597",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-frPoOMl4zjA7fetzbAgO",
+    "upstreamId": "frPoOMl4zjA7fetzbAgO",
+    "twConceptId": "10008790",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-RdKP8fzh9wAJIiLylFRU",
+    "upstreamId": "RdKP8fzh9wAJIiLylFRU",
+    "twConceptId": "10004462",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-tyRoVULGDkjjGrC3fcPH",
+    "upstreamId": "tyRoVULGDkjjGrC3fcPH",
+    "twConceptId": "235235",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-tN8pqXpJwjw4sGDVipao",
+    "upstreamId": "tN8pqXpJwjw4sGDVipao",
+    "twConceptId": "10011105",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-FdM8nevwWTznyODhIVwH",
+    "upstreamId": "FdM8nevwWTznyODhIVwH",
+    "twConceptId": "10007859",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-jfrIWkLZ90mKdRWGiOrF",
+    "upstreamId": "jfrIWkLZ90mKdRWGiOrF",
+    "twConceptId": "229066",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-IYk84inDBvmg2pwQdsuK",
+    "upstreamId": "IYk84inDBvmg2pwQdsuK",
+    "twConceptId": "10009610",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-7kQsHwIWJdu6h4RuFOpM",
+    "upstreamId": "7kQsHwIWJdu6h4RuFOpM",
+    "twConceptId": "10004116",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-K8VcjoCR1Tal14FIXYsi",
+    "upstreamId": "K8VcjoCR1Tal14FIXYsi",
+    "twConceptId": "10014385",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-lDpUHsAcqLRNfPemB0sV",
+    "upstreamId": "lDpUHsAcqLRNfPemB0sV",
+    "twConceptId": "10012483",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-FbJ4tEzDF4py31vAEgEv",
+    "upstreamId": "FbJ4tEzDF4py31vAEgEv",
+    "twConceptId": "10006098",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-r00dJXAm93koJQKADwvb",
+    "upstreamId": "r00dJXAm93koJQKADwvb",
+    "twConceptId": "10009025",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-GMp6QNqNEx9HUXKzfZoD",
+    "upstreamId": "GMp6QNqNEx9HUXKzfZoD",
+    "twConceptId": "234567",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-zEOmU0fpZsNkeASOWMRc",
+    "upstreamId": "zEOmU0fpZsNkeASOWMRc",
+    "twConceptId": "10003484",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-lYgXJRjXS4oPOFR0AX1f",
+    "upstreamId": "lYgXJRjXS4oPOFR0AX1f",
+    "twConceptId": "10009325",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-U4JnhHCkF480rvOFInBU",
+    "upstreamId": "U4JnhHCkF480rvOFInBU",
+    "twConceptId": "10009923",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-TUWU3BjxcTYvWmQv6Yzc",
+    "upstreamId": "TUWU3BjxcTYvWmQv6Yzc",
+    "twConceptId": "10002689",
+    "platforms": [
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-Ijvc9yFav8MTeIlk566o",
+    "upstreamId": "Ijvc9yFav8MTeIlk566o",
+    "twConceptId": "10005843",
+    "platforms": [
+      "PS4"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-owO3Pu498fXq2TksHX94",
+    "upstreamId": "owO3Pu498fXq2TksHX94",
+    "twConceptId": "10000494",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-yMcAdFQYyyeGWX1pUBJL",
+    "upstreamId": "yMcAdFQYyyeGWX1pUBJL",
+    "twConceptId": "234471",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-SNehmvdNs60LlOb9TRPY",
+    "upstreamId": "SNehmvdNs60LlOb9TRPY",
+    "twConceptId": "10004780",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-8UeZViuUKcWSXf1nnefe",
+    "upstreamId": "8UeZViuUKcWSXf1nnefe",
+    "twConceptId": "10000598",
+    "platforms": [
+      "PS4"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-3OkSuxi59uSlLVzrIi0c",
+    "upstreamId": "3OkSuxi59uSlLVzrIi0c",
+    "twConceptId": "10004982",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-HqTAxLZhz91JbucaFN1t",
+    "upstreamId": "HqTAxLZhz91JbucaFN1t",
+    "twConceptId": "10001119",
+    "platforms": [
+      "PS5",
+      "PS4"
+    ],
+    "method": "product-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-8A0w3BPClOtTvuW5vlvU",
+    "upstreamId": "8A0w3BPClOtTvuW5vlvU",
+    "twConceptId": "10016223",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-1fnpoRMCpgI683bOFYFk",
+    "upstreamId": "1fnpoRMCpgI683bOFYFk",
+    "twConceptId": "10017591",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-JdqWCqHCfUXMFcjy65dN",
+    "upstreamId": "JdqWCqHCfUXMFcjy65dN",
+    "twConceptId": "10015861",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-cgRkWl3f9UpSgAtFMOl2",
+    "upstreamId": "cgRkWl3f9UpSgAtFMOl2",
+    "twConceptId": "10016210",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-Wwcx9CMXIKf9nKjjnEpR",
+    "upstreamId": "Wwcx9CMXIKf9nKjjnEpR",
+    "twConceptId": "10013576",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-te7eQXF4Y9eLedUravd8",
+    "upstreamId": "te7eQXF4Y9eLedUravd8",
+    "twConceptId": "10008667",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-L3Imh6GnXrTcWI34eUwi",
+    "upstreamId": "L3Imh6GnXrTcWI34eUwi",
+    "twConceptId": "10008668",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  },
+  {
+    "gameId": "ss-kczlaTz1eRoyE2brqFYD",
+    "upstreamId": "kczlaTz1eRoyE2brqFYD",
+    "twConceptId": "10007635",
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "method": "concept-id+platform",
+    "source": {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    "trophyGroups": []
+  }
+]

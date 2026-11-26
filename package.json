@@ -1,0 +1,32 @@
+{
+  "name": "subsort-tw-companion",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.18"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "npm run validate && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "update": "node scripts/update.mjs",
+    "sources:audit": "node scripts/audit-sources.mjs",
+    "research": "node scripts/research.mjs",
+    "import:list": "node scripts/import-list.mjs",
+    "validate": "node scripts/validate.mjs",
+    "test": "node scripts/test.mjs",
+    "test:browser": "node scripts/browser-test.mjs",
+    "enrich:display": "node scripts/display-data.mjs",
+    "trophies:queue": "node scripts/trophy-queue.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.5",
+    "ajv": "^8.17.1",
+    "playwright": "^1.51.0"
+  }
+}

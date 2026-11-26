@@ -1,0 +1,42 @@
+{
+  "snapshotId": "snapshot-6590ae3da35c4f29f5a3302e",
+  "lastSuccessAt": "2026-11-26T08:42:24.360Z",
+  "asOf": "2026-11-26",
+  "complete": true,
+  "validSnapshot": true,
+  "sources": [
+    {
+      "url": "https://www.subsort.gg/api/games",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-games-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.playstation.com/bin/imagic/gameslist?locale=zh-hant-tw&categoryList=plus-classics-list",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.playstation.com/zh-hant-tw/ps-plus/whats-new/",
+      "checkedAt": "2026-11-26T08:42:24.360Z",
+      "status": "partial-no-confirmed-departures"
+    }
+  ],
+  "counts": {
+    "upstreamTotal": 1558,
+    "candidates": 55,
+    "taiwanCatalog": 530,
+    "gameCatalog": 380,
+    "classicsCatalog": 150,
+    "confirmed": 43,
+    "pending": 12,
+    "excluded": 0,
+    "newEvaluations": 1,
+    "reusedEvaluations": 42
+  },
+  "removalEvents": []
+}
