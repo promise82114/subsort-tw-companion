@@ -3,9 +3,14 @@ import {computed,ref,onMounted,onUnmounted,nextTick} from 'vue';
 import SourcePanel from './SourcePanel.vue';
 import TrophyCounts from './TrophyCounts.vue';
 import {preferredVersion} from './trophies.js';
+import {todayTaiwan,catalogPeriod,matchesPeriod,sortByPeriod} from './catalog-period.js';
 import snapshot from '../data/snapshot.json';
-import {STATUSES,recordKey,emptyPrivate,loadPrivate,validatePrivate,planCleanup,applyCleanup,makeChange,undoChange,sortGames,formatHours} from './domain.js';
+import {STATUSES,recordKey,emptyPrivate,loadPrivate,validatePrivate,planCleanup,applyCleanup,makeChange,undoChange,formatHours} from './domain.js';
 const meta=snapshot.metadata;
+const today=ref(todayTaiwan()),period=ref('');
+let dayTimer;
+const updateDay=()=>{today.value=todayTaiwan();};
+const periodChoices=[['annual','近1／2年'],['year','近1年'],['two-years','近2年'],['half','半年參考']];
 const importBefore=ref(null),importRaw=ref(''),recoveryDownloaded=ref(false),recoveryAcknowledged=ref(false);
 const menuOpen=ref(false),failedCovers=ref({});
 const completed=computed(()=>all.value.filter(e=>record(e).status==='完成').length);
@@ -19,15 +24,17 @@ const query=ref(''),platform=ref(''),tier=ref(''),genre=ref(''),platinum=ref('')
 const title=g=>g.nameZh??g.nameEn;
 const genreNames={ACTION:'動作',ADVENTURE:'冒險',ROLE_PLAYING:'角色扮演',RPG:'角色扮演',SIMULATION:'模擬',STRATEGY:'策略',PUZZLE:'益智',FAMILY:'家庭',HORROR:'恐怖',DRIVING_RACING:'競速',RACING:'競速',SPORTS:'運動',CASUAL:'休閒',BRAIN_TRAINING:'腦力訓練',ARCADE:'街機',SHOOTER:'射擊',FIGHTING:'格鬥'};
 const genreName=g=>genreNames[g]??g;
-const all=computed(()=>snapshot.watchlist.entries.filter(e=>!e.suspended).map(e=>({...e,game:snapshot.games.find(g=>g.gameId===e.gameId)})));
+const all=computed(()=>snapshot.watchlist.entries.filter(e=>!e.suspended).map(e=>({...e,game:snapshot.games.find(g=>g.gameId===e.gameId),timing:catalogPeriod(e.addedAt,today.value)})));
 const genres=computed(()=>[...new Set(all.value.flatMap(e=>e.game.genres))].sort());
 const key=e=>recordKey(e.gameId,e.cycleId);
 const record=e=>privateData.value.records[key(e)]??{status:'待評估',note:''};
 const hasPlatinum=e=>{const v=preferredVersion(e.game,platform.value);return v?.hasPlatinum===true?'yes':v?.hasPlatinum===false?'no':'unknown';};
-const filtered=computed(()=>sortGames(all.value.filter(e=>{
+const matching=computed(()=>all.value.filter(e=>{
   const g=e.game,s=record(e).status;
   return (!query.value||`${g.nameEn} ${g.nameZh??''}`.toLocaleLowerCase().includes(query.value.trim().toLocaleLowerCase()))&&(!tier.value||e.tier===tier.value)&&(!platform.value||e.platforms.includes(platform.value))&&(!genre.value||g.genres.includes(genre.value))&&(!platinum.value||hasPlatinum(e)===platinum.value)&&(!status.value||s===status.value)&&((showHidden.value||status.value==='完成'||status.value==='略過')||!['完成','略過'].includes(s));
-}),sort.value));
+}));
+const periodCount=value=>matching.value.filter(e=>matchesPeriod(e.timing,value)).length;
+const filtered=computed(()=>sortByPeriod(matching.value.filter(e=>matchesPeriod(e.timing,period.value)),sort.value,today.value));
 const playing=computed(()=>all.value.filter(e=>record(e).status==='遊玩中').length);
 const cleanKeys=computed(()=>planCleanup(privateData.value,meta));
 const cleanRecords=computed(()=>cleanKeys.value.map(k=>privateData.value.records[k]));
@@ -61,13 +68,13 @@ function confirmImport(){
   const next={schemaVersion:1,records:{...privateData.value.records,...incoming.value.records}};if(persist(next)){dialog.value=null;incoming.value=null;notice.value='已合併匯入，可精準撤銷本次覆蓋。';}}
   catch(e){notice.value=`匯入已停止：${e.message}；原紀錄保留。`;dialog.value=null;}}
 function clean(){const {next}=applyCleanup(privateData.value,cleanKeys.value);if(persist(next)){dialog.value=null;notice.value='已清理確認移除週期的紀錄，可撤銷；重新入列會建立新週期。';}}
-function resetFilters(){query.value='';platform.value='';tier.value='';genre.value='';platinum.value='';status.value='';showHidden.value=false;sort.value='recommendation';}
+function resetFilters(){period.value='';query.value='';platform.value='';tier.value='';genre.value='';platinum.value='';status.value='';showHidden.value=false;sort.value='recommendation';}
 function load(){try{privateData.value=loadPrivate(localStorage);const raw=JSON.parse(localStorage.getItem('subsort-tw:private:v1')??'null');
   undo.value=null;if(raw?.undo&&typeof raw.undo==='object'&&!Array.isArray(raw.undo)){for(const [k,p]of Object.entries(raw.undo)){for(const value of [p.before,p.after])if(value!==null)validatePrivate({schemaVersion:1,records:{[k]:value}});}undo.value=raw.undo;}
   storageBlocked.value=false;
 }catch(e){storageBlocked.value=true;notice.value=`無法讀取私人紀錄：${e.message}。原始內容保留，請匯出原始備份後處理。`;}}
 const sync=e=>{if(e.key==='subsort-tw:private:v1'){load();notice.value='已同步同一瀏覽器其他分頁的紀錄。';}};
-onMounted(()=>{load();window.addEventListener('storage',sync);});onUnmounted(()=>window.removeEventListener('storage',sync));
+onMounted(()=>{load();window.addEventListener('storage',sync);updateDay();dayTimer=setInterval(updateDay,60000);window.addEventListener('focus',updateDay);document.addEventListener('visibilitychange',updateDay);});onUnmounted(()=>{window.removeEventListener('storage',sync);window.removeEventListener('focus',updateDay);document.removeEventListener('visibilitychange',updateDay);clearInterval(dayTimer);});
 const validUrl=url=>{try{return new URL(url).protocol==='https:'?url:null;}catch{return null;}};
 const coverUrl=g=>g.cover?.path&&!failedCovers.value[g.gameId]?import.meta.env.BASE_URL+g.cover.path:null;
 const shortReason=g=>g.evaluation.reason.split('。')[0]+(g.evaluation.reason.includes('。')?'。':'');
@@ -111,7 +118,12 @@ const displayDate=value=>value?new Date(value).toLocaleString('zh-TW',{timeZone:
           <label>所需方案<select v-model="tier" aria-label="所需方案"><option value="">全部方案</option><option value="Extra">升級</option><option value="Deluxe">高級</option></select></label>
           <label>類型<select v-model="genre" aria-label="類型"><option value="">全部類型</option><option v-for="g in genres" :key="g" :value="g">{{ genreName(g) }}</option></select></label>
           <label>白金<select v-model="platinum" aria-label="白金"><option value="">全部</option><option value="yes">有白金</option><option value="no">無白金</option><option value="unknown">未知</option></select></label>
-          <label>排序<select v-model="sort" aria-label="排序"><option value="recommendation">推薦優先</option><option value="main">主線時間短到長</option><option value="platinum">白金時間短到長</option></select></label>
+          <label>排序<select v-model="sort" aria-label="排序"><option value="recommendation">推薦優先</option><option value="main">主線時間短到長</option><option value="platinum">白金時間短到長</option><option value="catalog-oldest">在庫最久優先</option><option value="catalog-newest">入庫最新優先</option><option value="annual-nearest">距1／2年最近</option></select></label>
+        </div>
+        <div class="period-tools" aria-label="在庫時期工具">
+          <label class="period-select">在庫時期<select v-model="period" aria-label="在庫時期"><option value="">全部時期</option><option value="annual">近1／2年（前2個月內）</option><option value="year">近1年（前2個月內）</option><option value="two-years">近2年（前2個月內）</option><option value="half">半年參考（6／18個月前2個月內）</option><option value="under-year">未滿1年</option><option value="over-year">已滿1年</option><option value="over-two-years">已滿2年</option><option value="unknown">日期未知／待確認</option></select></label>
+          <div class="period-shortcuts" role="group" aria-label="週期快速篩選"><button v-for="[value,label] in periodChoices" :key="value" :class="{annual:value!=='half'}" :aria-pressed="period===value" @click="period=period===value?'':value">{{ label }} <span>{{ periodCount(value) }}</span></button></div>
+          <p class="period-help" :data-reference-day="today">截至 {{ today }}（台灣今天）；依SubSort美帳入庫日計時，可能與台帳不同。近週期＝前2個月內；優先看1／2年、半年作輔助，非官方離庫公告。</p>
         </div>
         <div class="list-bar"><span role="status">顯示 {{ filtered.length }} 款 · 完成／略過預設隱藏</span><div class="list-options"><label class="inline-label">遊玩狀態<select v-model="status" aria-label="遊玩狀態"><option value="">全部狀態</option><option v-for="s in STATUSES" :key="s">{{ s }}</option></select></label><label class="check"><input v-model="showHidden" type="checkbox">顯示完成／略過</label><button class="text-button" @click="resetFilters">重設篩選</button></div></div>
         <div v-if="!filtered.length" class="empty" tabindex="-1"><h2>沒有符合條件的遊戲</h2><p>調整篩選，或顯示已完成與略過的紀錄。</p><button @click="resetFilters">清除所有條件</button></div>
@@ -121,7 +133,13 @@ const displayDate=value=>value?new Date(value).toLocaleString('zh-TW',{timeZone:
             <div v-else class="cover-fallback" aria-label="封面暫缺">{{ title(e.game).slice(0,2) }}</div>
             <div class="game-row-content">
               <div class="row-heading">
-                <div class="row-name"><span class="rank" :class="{priority:['S','A'].includes(e.game.evaluation.rank)}" :aria-label="'推薦'+(e.game.evaluation.rank??'待評估')">{{ e.game.evaluation.rank??'待評估' }}</span><div><h2>{{ title(e.game) }}</h2><p v-if="e.game.nameZh" class="english">{{ e.game.nameEn }}</p><p class="genre-line">{{ e.platforms.join(' / ') }} · {{ e.tier==='Deluxe'?'高級':'升級' }} · {{ e.game.genres.map(genreName).join('／') }}<span class="added-at" title="SubSort美帳入庫日期">入庫 <time :datetime="e.addedAt??undefined">{{ e.addedAt??'未知' }}</time></span></p></div></div>
+                <div class="row-name"><span class="rank" :class="{priority:['S','A'].includes(e.game.evaluation.rank)}" :aria-label="'推薦'+(e.game.evaluation.rank??'待評估')">{{ e.game.evaluation.rank??'待評估' }}</span><div><h2>{{ title(e.game) }}</h2><p v-if="e.game.nameZh" class="english">{{ e.game.nameEn }}</p><p class="genre-line">{{ e.platforms.join(' / ') }} · {{ e.tier==='Deluxe'?'高級':'升級' }} · {{ e.game.genres.map(genreName).join('／') }}</p>
+                <div class="catalog-timing" :data-timing="e.timing.known?'known':'unknown'">
+                  <span class="period-badge" :class="e.timing.tone">{{ e.timing.label }}</span><strong class="catalog-duration">{{ e.timing.known?'在庫 '+e.timing.duration:e.timing.reason }}</strong>
+                  <span class="added-at" title="SubSort美帳入庫日期，非台帳實際領取日">入庫 <time :datetime="e.timing.known?e.addedAt:undefined">{{ e.addedAt??'未知' }}</time></span>
+                  <span v-if="e.timing.marker" class="anniversary-marker">{{ e.timing.markerLabel }} <time :datetime="e.timing.marker.date">{{ e.timing.marker.date }}</time> · {{ e.timing.marker.days===0?'今天到達':('尚有 '+e.timing.marker.days+' 天') }}</span><span v-else-if="e.timing.known" class="anniversary-marker">已超過2年；不推定合約或離庫時間</span>
+                </div>
+                </div></div>
                 <div class="row-numbers"><dl class="game-facts"><div><dt>主線</dt><dd>{{ formatHours(e.game.mainHours) }}</dd></div><div><dt>評分</dt><dd>{{ e.game.rating?e.game.rating.score+' / 100':'未知' }}</dd></div></dl><TrophyCounts :game="e.game" :platform="platform" /></div>
               </div>
               <p class="graduation-goal"><span class="goal-tag">{{ e.game.evaluation.goal?'建議'+e.game.evaluation.goal+'畢業':'待評估' }}</span><small v-if="e.game.evaluation.goal==='白金' && preferredVersion(e.game,platform)?.hasPlatinum!==true">（白金有無與條件待查）</small></p>

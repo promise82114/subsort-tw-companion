@@ -28,6 +28,12 @@ npm run preview
 
 瀏覽器測試自行啟動／關閉4173 production preview，使用已安裝Chrome的隔離profile；未裝Chrome可將測試channel改為已安裝的msedge，不使用個人登入資料。Vite base為 `/subsort-tw-companion/`，儲存庫改名時同步修改。
 
+## 在庫時期與計時
+
+推薦優先仍是預設，排序規則未改。可用「在庫時期」或快速按鈕篩出近1年、近2年、半年參考；也可選在庫最久、入庫最新或距1／2年最近排序。近週期＝到達前2個日曆月內（含當日），半年參考指6／18月。時期可和平台、類型、私人狀態等條件交集，重設篩選回推薦優先。
+
+計時基於SubSort美帳入庫日與台灣今天；不是台帳實際上架日或已確認離庫倒數。日曆月末採月底校正，未知／未來日期待確認；跨日或回到頁面時更新計時，不改動資料更新時間或私人紀錄。只對最後成功快照內的候選計算，不會自動擴大或重新擷取名單。見[時期功能驗收](reports/catalog-period-20261127.md)。
+
 ## 更新流程
 
 依 [UPDATE.md](UPDATE.md)、[EVALUATION.md](EVALUATION.md) 工作；產品規格為 [PROJECT_SPEC.md](PROJECT_SPEC.md)。

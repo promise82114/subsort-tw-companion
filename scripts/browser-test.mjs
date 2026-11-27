@@ -1,5 +1,6 @@
 import {chromium} from 'playwright';
 import {preview} from 'vite';
+import {catalogPeriod,matchesPeriod,sortByPeriod} from '../src/catalog-period.js';
 import {preferredVersion} from '../src/trophies.js';
 import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
@@ -14,6 +15,7 @@ await fs.mkdir('test-results',{recursive:true});
 const cards=()=>page.locator('.game-card');
 const setStatus=async(row,value)=>row.getByRole('button',{name:new RegExp('^(?:✓ )?'+value+'$')}).click();
 try{
+  await page.clock.install({time:new Date('2026-11-27T04:00:00Z')});
   await page.goto('http://127.0.0.1:4173/subsort-tw-companion/');await page.waitForSelector('.game-card');
   await check('production Pages subpath loads every confirmed real candidate',async()=>assert.equal(await cards().count(),snapshot.metadata.counts.confirmed));
   await check('Chinese/English search, platform, genre, platinum and sort controls work',async()=>{
@@ -77,6 +79,25 @@ try{
     await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('Black Desert');assert.match(await cards().first().locator('.trophy-caption').innerText(),/PS5.*15/);
     await page.getByRole('button',{name:'重設篩選'}).click();await page.getByLabel('搜尋遊戲').fill('Biped');assert.match(await cards().first().locator('.trophy-caption').innerText(),/PS5.*16/);await page.getByLabel('平台',{exact:true}).selectOption('PS4');assert.match(await cards().first().locator('.trophy-caption').innerText(),/PS4/);assert.match(await cards().first().locator('.trophy-base').innerText(),/尚待查證/);assert.equal(await cards().first().locator('.trophy-additional').count(),0);
     await page.getByRole('button',{name:'重設篩選'}).click();
+  });
+  await check('catalog clock, annual/half filters and optional sorts preserve the recommendation list',async()=>{
+    await page.getByRole('button',{name:'重設篩選'}).click();
+    const source=snapshot.watchlist.entries.map(e=>({...e,game:snapshot.games.find(g=>g.gameId===e.gameId)}));
+    const ids=()=>cards().evaluateAll(es=>es.map(e=>e.dataset.gameId));const baseline=await ids();assert.deepEqual(baseline,sortByPeriod(source).map(e=>e.gameId));
+    assert.equal(await page.locator('.catalog-timing').count(),43);assert.match(await page.locator('.period-help').innerText(),/非官方離庫公告/);
+    for(const value of ['year','two-years','half','annual','over-year','under-year','unknown']){
+      await page.getByLabel('在庫時期',{exact:true}).selectOption(value);assert.equal(await page.getByLabel('排序',{exact:true}).inputValue(),'recommendation');const expected=source.filter(e=>matchesPeriod(catalogPeriod(e.addedAt,'2026-11-27'),value));assert.deepEqual(await ids(),sortByPeriod(expected).map(e=>e.gameId));
+    }
+    await page.getByRole('button',{name:'重設篩選'}).click();
+    const quick=page.getByRole('group',{name:'週期快速篩選'}).getByRole('button',{name:/^近1／2年/});await quick.click();assert.equal(await quick.getAttribute('aria-pressed'),'true');await quick.click();assert.deepEqual(await ids(),baseline);
+    for(const mode of ['catalog-oldest','catalog-newest','annual-nearest']){await page.getByLabel('排序',{exact:true}).selectOption(mode);assert.deepEqual(await ids(),sortByPeriod(source,mode,'2026-11-27').map(e=>e.gameId));}
+    await page.getByLabel('在庫時期',{exact:true}).selectOption('annual');await page.getByLabel('平台',{exact:true}).selectOption('PS5');const expected=source.filter(e=>e.platforms.includes('PS5')&&matchesPeriod(catalogPeriod(e.addedAt,'2026-11-27'),'annual'));assert.equal(await cards().count(),expected.length);
+    await page.getByRole('button',{name:'重設篩選'}).click();assert.deepEqual(await ids(),baseline);assert.equal(await page.getByLabel('在庫時期',{exact:true}).inputValue(),'');
+  });
+  await check('Taiwan midnight refreshes elapsed duration without changing private state or snapshot date',async()=>{
+    await page.getByLabel('搜尋遊戲').fill('8號');const before=await cards().first().locator('.catalog-duration').innerText();const privateBefore=await page.evaluate(()=>localStorage.getItem('subsort-tw:private:v1'));const update=await page.locator('.update-line').innerText();
+    await page.clock.setSystemTime(new Date('2026-11-27T16:01:00Z'));await page.evaluate(()=>window.dispatchEvent(new Event('focus')));assert.equal(await page.locator('.period-help').getAttribute('data-reference-day'),'2026-11-28');assert.notEqual(await cards().first().locator('.catalog-duration').innerText(),before);assert.equal(await page.locator('.update-line').innerText(),update);assert.equal(await page.evaluate(()=>localStorage.getItem('subsort-tw:private:v1')),privateBefore);
+    await page.clock.setSystemTime(new Date('2026-11-27T04:00:00Z'));await page.evaluate(()=>window.dispatchEvent(new Event('focus')));await page.getByRole('button',{name:'重設篩選'}).click();
   });
   await check('stale import preview stops and quota failure never reports a saved status',async()=>{
     const first=snapshot.watchlist.entries[0],second=snapshot.watchlist.entries[1];const fixture={schemaVersion:1,records:{[first.gameId+'::'+first.cycleId]:{gameId:first.gameId,cycleId:first.cycleId,status:'想玩',note:'來源測試',updatedAt:'2026-11-26T09:00:00Z'}}};await page.locator('input[type=file]').setInputFiles({name:'stale.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(fixture))});const wait=page.waitForEvent('download');await page.getByRole('button',{name:'下載兩端復原備份'}).click();await wait;await page.getByLabel('已確認復原備份下載並保存').check();await page.evaluate(e=>{localStorage.setItem('subsort-tw:private:v1',JSON.stringify({schemaVersion:1,records:{[e.gameId+'::'+e.cycleId]:{gameId:e.gameId,cycleId:e.cycleId,status:'遊玩中',note:'其他分頁較晚資料',updatedAt:'2026-11-26T09:01:00Z'}}}));},second);await page.getByRole('button',{name:'確認合併與覆蓋'}).click();assert.match(await page.locator('.feedback').innerText(),/預覽後紀錄已變更/);assert.match(await page.evaluate(()=>localStorage.getItem('subsort-tw:private:v1')),/其他分頁較晚資料/);await page.evaluate(()=>localStorage.clear());await page.reload();await page.waitForSelector('.game-card');
